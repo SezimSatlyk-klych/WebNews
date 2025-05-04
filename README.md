@@ -25,8 +25,7 @@
    ```
 
 2. Настроить файл firebase/setup.js
-
-   ```
+```
 const firebaseConfig = {
     apiKey: "",
     authDomain: "",
@@ -36,7 +35,7 @@ const firebaseConfig = {
     appId: "",
     measurementId: ""
 };
-   ```
+```
 
 3. Запустить локально:
 
