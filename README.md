@@ -1,70 +1,118 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**WebNews ** Интерактивный новостной ассистент
 
-## Available Scripts
+## 📌 Краткое описание проекта
 
-In the project directory, you can run:
+Это полнофункциональное веб-приложение, в котором пользователь может:
 
-### `npm start`
+* Получать актуальные новости с **NewsAPI**;
+* Общаться с ИИ-помощником на базе **Gemini AI**, задавая вопросы по новостям;
+* Авторизоваться через **Firebase Authentication** (email/password);
+* Просматривать историю диалога (хранится на сервере);
+* Приложение реализовано с использованием **React** на фронтенде и **Node.js + MongoDB** на бэкенде.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ⚙️ Установка и запуск
 
-### `npm test`
+### 🔧 Frontend (React + Firebase)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Установить зависимости:
 
-### `npm run build`
+   ```bash
+   cd front
+   npm install
+   ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Создать `.env`:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   ```
+   NEWS_API_KEY=your_news_api_key
+   REACT_APP_FIREBASE_API_KEY=...
+   ```
+Настроить файл firebase/setup.js
+3. Запустить локально:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   npm start
+   ```
 
-### `npm run eject`
+4. Задеплоено на: [Netlify](https://webnewspaper.netlify.app/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 🧠 Backend (Node.js + Gemini API + MongoDB)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Установить зависимости:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```bash
+   cd gemini_chat_backend
+   npm install
+   ```
 
-## Learn More
+2. Создать `.env`:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```
+   GEMINI_API_KEY=APIKEY
+   MONGODB_URI=mongodb_connection_string
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3. Запуск:
 
-### Code Splitting
+   ```bash
+   node app.js
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+4. Задеплоено на: [Vercel](https://serverless-ai-beige.vercel.app/api/chat)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🧩 Проектирование и разработка
 
-### Making a Progressive Web App
+* Фронтенд спроектирован на **React + Bootstrap** с компонентной архитектурой.
+* Используется `fetch` и `axios` для связи с внешними API.
+* Backend реализован в виде **serverless функции** (для Vercel).
+* MongoDB используется для хранения истории диалогов.
+* ИИ-ответы формируются через Gemini AI API (`@google/generative-ai`).
+* Модель Gemini 2.0 Flash
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## 🚀 Уникальные особенности и подходы
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+* Использование **Firebase** как простой и безопасной системы аутентификации.
+* Подключение **двух API** (NewsAPI и Gemini) в одном UI с удобной интеграцией.
+* Backend задеплоен как **serverless Node.js-функция**, что упрощает масштабирование и экономит ресурсы.
+* История чатов сохраняется **по авторизации firebase** пользователя
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## ⚖️ Принятые компромиссы
 
-### `npm run build` fails to minify
+| Проблема                      | Решение                                            |
+| ----------------------------- | -------------------------------------------------- |
+| CORS между фронтом и верцелом | Добавлены заголовки в Node.js handler              |
+| История чатов        | Ограничились email-полем от Firebase               |
+| Отказ от Express-сервера      | Перешли на serverless-функции для деплоя на Vercel |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## 🐞 Известные ошибки / проблемы
+
+* ⚠️ **История чатов не синхронизируется между устройствами в реальном времени** – требуется перезагрузка страницы;
+* ❌ Нет фильтрации новостей по теме ИИ — отображаются все новости по категориям
+
+---
+
+## 💬 Почему выбран именно этот стек
+
+| Технология        | Причина выбора                                             |
+| ----------------- | ---------------------------------------------------------- |
+| **React JS**      | Современный, компонентный, удобно работать с UI и API      |
+| **Firebase Auth** | Быстрая и безопасная регистрация/вход без серверной логики |
+| **NewsAPI**       | Простое REST API для новостей, подходит под MVP            |
+| **Node.js**       | Легкий, подходит для serverless архитектуры                |
+| **Vercel**        | Удобный деплой без настройки серверов                      |
+| **MongoDB**       | Гибкая структура документов для хранения чатов             |
+
+---
