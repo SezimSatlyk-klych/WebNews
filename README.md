@@ -24,13 +24,20 @@
    npm install
    ```
 
-2. Создать `.env`:
+2. Настроить файл firebase/setup.js
 
    ```
-   NEWS_API_KEY=your_news_api_key
-   REACT_APP_FIREBASE_API_KEY=...
+const firebaseConfig = {
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
+};
    ```
-Настроить файл firebase/setup.js
+
 3. Запустить локально:
 
    ```bash
