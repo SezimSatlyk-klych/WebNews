@@ -1,0 +1,981 @@
+{
+    "status": "ok",
+    "totalResults": 16412,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brad Bourque",
+            "title": "Corsair Void Wireless v2 Review: Dolby Atmos on Bigger Heads",
+            "description": "These updated gaming headphones fit larger noggins and have Dolby Atmos.",
+            "url": "https://www.wired.com/review/corsair-void-wireless-v2/",
+            "urlToImage": "https://media.wired.com/photos/681160ab1d1168dd5c4e68e5/191:100/w_1280,c_limit/Corsair-Void-Wireless_042025_Lede.jpg",
+            "publishedAt": "2025-04-30T13:03:00Z",
+            "content": "If Im going to use a headset regularly, it needs a visible way to indicate that Im muted. A light is preferable, but the Corsairs microphone clicks upward and gives an audible voiceover that lets you… [+1941 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Reece Rogers",
+            "title": "How to Use Instagram Edits, Meta’s New CapCut Clone for Editing Videos",
+            "description": "Instagram’s long-promised video-editing app is out now. Here’s how to use Edits to make Reels, and how the software differs from TikTok’s CapCut.",
+            "url": "https://www.wired.com/story/how-to-use-instagram-edits-capcut-clone/",
+            "urlToImage": "https://media.wired.com/photos/6809531af0d9ff7ab518fc92/191:100/w_1280,c_limit/Instagram-Edits-Gear-Edits-logo-still.jpg",
+            "publishedAt": "2025-04-24T11:00:00Z",
+            "content": "In January, Meta announced its stand-alone video editing app for making Reels, simply called Edits. After release delays, users anywhere in the world can now download the app and try it out.\r\nThe new… [+5164 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jason Parham",
+            "title": "Trump Wants to Erase Black History. These Digital Archivists Are Racing to Save It",
+            "description": "Donald Trump’s executive orders are attacking everything from the Smithsonian to Black sports history, but grassroots organizers are launching a resistance.",
+            "url": "https://www.wired.com/story/trump-wants-to-erase-black-history-these-digital-archivists-are-racing-to-save-it/",
+            "urlToImage": "https://media.wired.com/photos/680bd4e73ddddf050bdfc981/191:100/w_1280,c_limit/Smithsonian-Black-Artifacts-Culture-2210057372.jpg",
+            "publishedAt": "2025-05-02T11:00:00Z",
+            "content": "Meredith D. Clark, a professor of race and political communication at UNC-Chapel Hill, tells WIRED that museums are akin to public trusts, and the Trump administrations assault on them is an attempt … [+3120 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Zoë Schiffer, Paresh Dave",
+            "title": "Will Meta Really Have to Sell Instagram and WhatsApp?",
+            "description": "On this episode of \"Uncanny Valley,\" we unpack the trial between Meta and the FTC.",
+            "url": "https://www.wired.com/story/uncanny-valley-podcast-ftc-meta-trial-instagram-whatsapp/",
+            "urlToImage": "https://media.wired.com/photos/67fea00b34a2676ced13d45f/191:100/w_1280,c_limit/Uncanny-Valley-Meta-FTC-Business-2210231656.jpg",
+            "publishedAt": "2025-04-16T17:34:10Z",
+            "content": "Paresh Dave: Absolutely. The timing when some of those moves were first announced was viewed as kind of suspicious because it was right around when these investigations into Meta and these cases star… [+4162 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Audio-Technica’s new $9,999 turntable levitates and glows",
+            "description": "Making its debut at Milan Design Week, where function often takes a back seat to form, Audio-Technica’s new Hotaru turntable manages to balance both. The upper section not only floats above the base using a series of magnets that help dampen vibrations, it al…",
+            "url": "https://www.theverge.com/news/650584/audio-technica-hotaru-turntable-record-player-vinyl-levitate",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/audiotechnica_hotura1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-17T14:09:32Z",
+            "content": "The Hotaru turntable glows in several different modes and color palettes. | Image: Audio-Technica\r\n\n\nMaking its debut at Milan Design Week, where function often takes a back seat to form, Audio-Techn… [+1927 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Google’s AI podcast maker is now available in over 50 languages",
+            "description": "Audio Overviews, the AI tool that turns your research into podcast-like conversations in Google’s NotebookLM app, is expanding beyond English. Now you can generate and listen to Audio Overviews in more than 50 languages, including Spanish, Portuguese, French,…",
+            "url": "https://www.theverge.com/news/657785/google-audio-overviews-ai-podcasts-50-languages",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-29T16:01:55Z",
+            "content": "Now you can listen to Audio Overviews in over 50 languages, like Spanish, French, Korean, and more.\r\nNow you can listen to Audio Overviews in over 50 languages, like Spanish, French, Korean, and more… [+1134 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Chris Welch",
+            "title": "The best Sonos speakers to buy in 2025",
+            "description": "After the year of self-induced tumult that Sonos has been through, I can understand why some people are reluctant to spend money on the company’s products. But interim CEO Tom Conrad has shown that he’s determined to get back on track and revitalize Sonos as …",
+            "url": "https://www.theverge.com/tech/652171/best-sonos-speakers",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257708_Sonos_buying_guide__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-23T14:02:35Z",
+            "content": "Its been a very turbulent year for Sonos, but the companys products are still excellent and the app situation is getting better.\r\nIts been a very turbulent year for Sonos, but the companys products a… [+12149 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "Bose’s QuietComfort Ultra are nearly $200 off in refurbished condition",
+            "description": "Whether you’re traveling or working from home, the noise-canceling Bose QuietComfort Ultra headphones can help you find calm and focus amid the everyday hustle and bustle. Normally priced at $429, sadly that peace and quiet doesn’t come cheap — but luckily to…",
+            "url": "https://www.theverge.com/tech/650816/bose-quietcomfort-ultra-headphones-refurbished-ebay-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25008886/DSCF3709.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-17T16:29:44Z",
+            "content": "Bose’s QuietComfort Ultra Headphones combine a travel-friendly, foldable design with top-notch noise cancellation and sound.\r\n\n\nWhether you’re traveling or working from home, the noise-canceling Bose… [+1258 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "Apple’s latest AirPods Pro are down to their best price of the year",
+            "description": "Amazon’s annual Gaming Week sale might be the big focus this week as far as deals are concerned, but gaming peripherals and games aren’t the only discounts we’re seeing. Right now, for instance, Apple’s latest AirPods Pro with USB-C are on sale for $169 ($80 …",
+            "url": "https://www.theverge.com/tech/639837/apple-airpods-pro-2-usb-c-wireless-earbuds-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/AirPods-Pro-USB-C-Deal-Image.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-29T18:25:18Z",
+            "content": "Apples premium earbuds remain the go-to pick for iPhone users who want the latest and greatest software features.\r\nApples premium earbuds remain the go-to pick for iPhone users who want the latest an… [+1527 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "You can now give Google’s AI video model camera directions",
+            "description": "Google is trying to make it easier for users of its video AI model Veo 2 to make cinematic-looking generations and edit real footage. The new Veo 2 capabilities are available to preview via Google Cloud’s Vertex AI platform, alongside other updates to improve…",
+            "url": "https://www.theverge.com/news/645906/you-can-now-give-googles-ai-video-model-camera-directions",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Veo-2-panning-shot-ai-label.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-09T17:15:25Z",
+            "content": "Veo 2 can now automatically remove objects, expand videos, and apply cinematic style presets.\r\nVeo 2 can now automatically remove objects, expand videos, and apply cinematic style presets.\r\nGoogle is… [+3444 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Mack DeGeurin",
+            "title": "How these guitar modeling companies are recreating rare vintage sounds for the digital age",
+            "description": "Around 2009, Dweezil Zappa ran into a space problem. He was busy touring the US, performing some songs written by his father, Frank. Recreating those signature âpeculiar sounds,â as Zappa calls them, required lugging around a massive rig â roughly the s…",
+            "url": "https://www.theverge.com/creators/643080/guitar-map-modeling",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257578_Small_biz_CVirginia2_AMP-MODELER.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-09T19:49:40Z",
+            "content": "Touring musicians are embracing modelers as a cost-effective way to maximize their sounds.\r\nTouring musicians are embracing modelers as a cost-effective way to maximize their sounds.\r\nAround 2009, Dw… [+9430 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Chris Welch",
+            "title": "The best AirPods to buy",
+            "description": "Whether you’re buying your first pair of AirPods or replacing a well-used older pair, it’s easy to understand why so many iPhone owners prefer Apple’s earbuds and headphones over other options. Apple has spent years gradually adding new features that work bes…",
+            "url": "https://www.theverge.com/tech/645217/the-best-airpods-to-buy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24040646/226285_AIRPODS_PRO_2_cwelch_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-09T17:30:09Z",
+            "content": "With four different models to pick between, heres how to land on the right AirPods for you.\r\nWith four different models to pick between, heres how to land on the right AirPods for you.\r\nWhether youre… [+5635 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Thomas Ricker",
+            "title": "Anker’s 4K outdoor projector looks and sounds great… on paper",
+            "description": "Anker’s new all-in-one Nebula X1 smart projector has everything you’d want from a “cinema-grade outdoor entertainment system.” It produces a bright 4K image from a triple-laser light engine capable of 3,500 ANSI lumens, automatically finds the best place to p…",
+            "url": "https://www.theverge.com/news/654392/anker-x1-waterproof-4k-projector-satellite-speaker-price-specs",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/backyard.png?quality=90&strip=all&crop=0%2C3.1051253487635%2C100%2C93.789749302473&w=1200",
+            "publishedAt": "2025-04-23T20:52:53Z",
+            "content": "The Nebula X1 is quiet, bright, and supports two battery-powered surround-sound speakers.\r\nThe Nebula X1 is quiet, bright, and supports two battery-powered surround-sound speakers.\r\nAnkers new all-in… [+2296 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "The BBC deepfaked Agatha Christie to teach a writing course",
+            "description": "BBC Studios is using AI to recreate the voice and likeness of late detective story author Agatha Christie for the purpose of featuring it in digital classes that teaches prospective writers “how to craft the perfect crime novel.” A real life actor, Vivien Kee…",
+            "url": "https://www.theverge.com/news/659150/bbc-agatha-christie-ai-maestro-classes",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Agatha-Christie_BBC-Maestro.jpg?quality=90&strip=all&crop=0%2C10.738580276621%2C100%2C78.522839446759&w=1200",
+            "publishedAt": "2025-04-30T20:41:05Z",
+            "content": "The crime fiction author doesnt know it, but shes now a teacher on the internet.\r\nThe crime fiction author doesnt know it, but shes now a teacher on the internet.\r\nBBC Studios is using AI to recreate… [+1212 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Wikipedia is giving AI developers its data to fend off bot scrapers",
+            "description": "Wikipedia is attempting to dissuade artificial intelligence developers from scraping the platform by releasing a dataset that’s specifically optimized for training AI models. The Wikimedia Foundation announced on Wednesday that it had partnered with Kaggle — …",
+            "url": "https://www.theverge.com/news/650467/wikipedia-kaggle-partnership-ai-dataset-machine-learning",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-17T10:07:03Z",
+            "content": "Data science platform Kaggle is hosting a Wikipedia dataset thats specifically optimized for machine learning applications.\r\nData science platform Kaggle is hosting a Wikipedia dataset thats specific… [+1761 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "DJI’s new drone speaker lets cops yell at you from the sky",
+            "description": "DJI’s new drone accessory is designed to ensure public safety and emergency officials are heard loud and clear — and I mean really loud. Its enterprise-focused Zenmuse V1 speaker can broadcast the sound of someone’s voice at up to 127 decibels at 1 meter, a n…",
+            "url": "https://www.theverge.com/news/649855/dji-drone-speaker-spotlight-zenmuse-jet-engine",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/dji-speaker-accessory.jpg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
+            "publishedAt": "2025-04-16T15:25:27Z",
+            "content": "If you thought police helicopters were annoying, wait until you experience DJIs new speaker accessory.\r\nIf you thought police helicopters were annoying, wait until you experience DJIs new speaker acc… [+1450 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Philips Hue bulbs and lighting kits are deeply discounted today only",
+            "description": "I’m always on the lookout for deals on Philips Hue gear, in part because that stuff’s expensive and I’m not keen on paying full price. Still, it’s worth the money to get the lighting exactly how I want it in each room — down to the precise color temperature t…",
+            "url": "https://www.theverge.com/tech/643379/philips-hue-bulbs-lightstrips-baseus-usb-c-beats-pill-bluetooth-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25604314/Philips_Hue_Play_HDMI_Sync_Box_8K_1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-04-04T14:41:33Z",
+            "content": "Illuminate your den exactly how you want with these discounted Philips Hue lights.\r\nIlluminate your den exactly how you want with these discounted Philips Hue lights.\r\nIm always on the lookout for de… [+1590 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "These wireless headphones have ‘80s Sony Walkman vibes",
+            "description": "Headphones had existed for well over 50 years by the time Sony’s Walkman debuted in 1979, but the portable cassette player helped popularize the technology by miniaturizing it. km5’s new Lightwear Headphones Hp1 feature a minimal design similar to the one shi…",
+            "url": "https://www.theverge.com/news/657273/km5-lightwear-wireless-headphones-hp1-sony-walkman",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/km5_hp1_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-28T16:46:04Z",
+            "content": "The km5 Lightwear Headphones Hp1 pair a lightweight retro design with modern functionality.\r\nThe km5 Lightwear Headphones Hp1 pair a lightweight retro design with modern functionality.\r\nHeadphones ha… [+1746 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Polygon sold to GameRant owner Valnet",
+            "description": "Polygon, The Verge’s sister site dedicated to gaming and entertainment, has been sold by Vox Media to Valnet, a company that owns brands like ScreenRant, GameRant, and Android Police. Some Polygon staffers will continue with the publication under its new owne…",
+            "url": "https://www.theverge.com/news/659575/polygon-vox-media-sold-valnet-gamerant",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Polygon_3x2_Gradient.0.png.webp?quality=90&strip=all&crop=0%2C10.720063261372%2C100%2C78.559873477256&w=1200",
+            "publishedAt": "2025-05-01T16:06:33Z",
+            "content": "Some staffers have been laid off or will no longer be with the publication.\r\nSome staffers have been laid off or will no longer be with the publication.\r\nPolygon, The Verges sister site dedicated to … [+1921 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Elon Musk’s robotaxi fantasy is starting to unravel",
+            "description": "Last night, Elon Musk did what he does best: promise âmillionsâ of autonomous Tesla vehicles would be on the road by the end of next year. Itâs become a familiar refrain. Every year since at least 2020, Musk has promised Tesla vehicles will finally achi…",
+            "url": "https://www.theverge.com/tesla/654253/tesla-robotaxi-elon-musk-earnings-promise-fantasy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25663400/STKE001_STK086_Tesla_Robotaxi_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-23T16:01:33Z",
+            "content": "Elon Musks robotaxi fantasy is starting to unravel\r\nThe Tesla CEO has long promised driverless cars that can go anywhere. But now hes acknowledging that there will be parameters.\r\nElon Musks robotaxi… [+6958 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ash Parrish",
+            "title": "Donkey Kong Bananza was best in show at the Switch 2 hands-on",
+            "description": "One of the games I had on my personal Nintendo Switch 2 bingo card was a new 3D Mario. We didnât get one at the Switch 2 hands-on, and at first I thought it was odd that Nintendo would be launching their next big thing without a dedicated title for their nu…",
+            "url": "https://www.theverge.com/games/642699/donkey-kong-bananza-hands-on-preview-switch-2",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/NintendoSwitch2_DonkeyKongBananza_SCRN_06-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-04-03T15:54:14Z",
+            "content": "One of the games I had on my personal Nintendo Switch 2 bingo card was a new 3D Mario. We didnt get one at the Switch 2 hands-on, and at first I thought it was odd that Nintendo would be launching th… [+2006 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "Lexus’ redesigned ES sedan can be electric or hybrid",
+            "description": "Lexus’s mid-sized ES luxury sedan is getting a redesign for its eighth generation that includes some edgier styling and a significant platform change that accommodates both an all-electric drivetrain and a regular hybrid one. Revealed at the Shanghai Auto Sho…",
+            "url": "https://www.theverge.com/news/654750/lexus-2026-es-350h-350e-550e-shanghai-ev",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/001.jpg?quality=90&strip=all&crop=0%2C10.742092856336%2C100%2C78.515814287328&w=1200",
+            "publishedAt": "2025-04-23T20:37:04Z",
+            "content": "The automaker plans a comprehensive reimagining of its brand in October.\r\nThe automaker plans a comprehensive reimagining of its brand in October.\r\nLexuss mid-sized ES luxury sedan is getting a redes… [+1803 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Shokz’ new open headphones don’t care what ear you clip them to",
+            "description": "Shokz has launched what the company is calling its “smallest and lightest open earbuds to date.” The new OpenDots One clip onto the back of your ear instead of sitting entirely inside it. It’s a design that’s similar to what the Bose Ultra Open Earbuds have h…",
+            "url": "https://www.theverge.com/news/659701/shokz-opendots-one-bluetooth-wireless-headphones-open",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/shokz_earbuds1.jpg?quality=90&strip=all&crop=0%2C10.762597427211%2C100%2C78.474805145578&w=1200",
+            "publishedAt": "2025-05-01T18:55:07Z",
+            "content": "The OpenDots One clip to the back of your ears so you can still hear everything going on around you.\r\nThe OpenDots One clip to the back of your ears so you can still hear everything going on around y… [+2354 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Chris Welch",
+            "title": "Sonos says it’s ‘actively assessing’ what Trump tariffs will mean for customers",
+            "description": "Even with all the self-induced turmoil that Sonos has been through over the last year, if you’ve been eyeing any of the company’s products, it might be wise to buy sooner than later. In an email, spokesperson Erin Pategas tells me that Sonos is “closely monit…",
+            "url": "https://www.theverge.com/news/642913/sonos-trump-tariffs-statement-prices-supply-chain",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24920161/DSCF2979.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-03T19:18:59Z",
+            "content": "The company has raised prices before during supply chain disruptions, but for now, its taking a wait-and-see approach on potential implications.\r\nThe company has raised prices before during supply ch… [+2269 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jennifer Pattison Tuohy",
+            "title": "WiZ’s new TV light sync box undercuts Philips Hue’s pricing by half",
+            "description": "Budget smart lighting brand WiZ has announced a new HDMI sync box that syncs with its line of Wi-Fi-based LED lights to match what’s playing on your TV.  WiZ’s HDMI Sync Box with TV backlight will be available next month. It comes in two models: one with a TV…",
+            "url": "https://www.theverge.com/news/659188/wiz-hdmi-sync-box-announced-price-specs-launch-date",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/WiZ-TV-sync-Rhytmic_WIZ4794.jpg?quality=90&strip=all&crop=0%2C10.784583525397%2C100%2C78.430832949206&w=1200",
+            "publishedAt": "2025-04-30T22:15:05Z",
+            "content": "Now you can sync your smart lights to your TV for less with the WiZ HDMI Sync Box. \r\nNow you can sync your smart lights to your TV for less with the WiZ HDMI Sync Box. \r\nBudget smart lighting brand W… [+2090 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jennifer Pattison Tuohy",
+            "title": "Samsung is finally releasing Ballie",
+            "description": "Samsung’s home robot Ballie is finally poised to roll into our homes… and maybe our hearts? Following teasing a release sometime this year at CES 2025, the company has now announced that the cute rolling bot will arrive in the US this summer, with pre-registr…",
+            "url": "https://www.theverge.com/news/645853/samsung-is-finally-releasing-ballie",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25820037/DSCF4358_Enhanced_NR.jpg?quality=90&strip=all&crop=0%2C4.8032041403788%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-09T16:18:34Z",
+            "content": "Samsung’s Ballie home robot will launch this summer, according to Samsung.\r\n\n\nSamsung’s home robot Ballie is finally poised to roll into our homes… and maybe our hearts? Following teasing a release s… [+2572 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "Amazon’s newest Kindle Scribe has returned to its best price to date",
+            "description": "As a part of its ongoing Book Sale, Amazon isn’t just cutting prices on its budget-friendly Fire HD tablets — it’s also offering a great deal on the latest Kindle Scribe. Right now, you can buy it with 16GB of storage for an all-time low of $324.99 ($75 off).…",
+            "url": "https://www.theverge.com/tech/649820/amazon-kindle-scribe-2025-google-nest-indoor-cam-wired-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25803641/247455_Kindle_Scribe_SVasani_0001.jpg?quality=90&strip=all&crop=0%2C12.079951274934%2C100%2C75.840097450133&w=1200",
+            "publishedAt": "2025-04-16T16:41:46Z",
+            "content": "We also found deals on Googles indoor Nest Cam and Soundcores latest pair of sleep earbuds.\r\nWe also found deals on Googles indoor Nest Cam and Soundcores latest pair of sleep earbuds.\r\nAs a part of … [+3407 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "Microsoft updates Copilot with the greatest hits from other AIs",
+            "description": "As it marks its 50th anniversary, Microsoft is updating Copilot with a host of new features all at once that bring it more in line with alternatives like ChatGPT or Claude. The AI assistant, which uses many OpenAI models, now supports memory, personalization,…",
+            "url": "https://www.theverge.com/news/643199/microsoft-copilot-ai-new-features-memory-personalization-actions-vision",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-04T13:03:35Z",
+            "content": "The AI assistant adds personalization, web actions, podcast creation, and more.\r\nThe AI assistant adds personalization, web actions, podcast creation, and more.\r\nAs it marks its 50th anniversary, Mic… [+2997 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "Adobe is building AI agents for Photoshop and Premiere Pro",
+            "description": "Adobe is building AI agents for Photoshop and Premiere Pro that can suggest ways to edit your photos or videos and then carry out the tasks for you, according to a blog written today by Ely Greenfield, Adobe’s CTO of digital media. Adobe Photoshop’s agentic A…",
+            "url": "https://www.theverge.com/news/646205/adobe-photoshop-premiere-pro-ai-creative-agent-actions",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/26ud9N4TvdWwra8lXJd7KK2O2NlgIQHmShp5zbBz8Ao.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-09T21:10:20Z",
+            "content": "The agents can perform complex tasks to help you get started on projects.\r\nThe agents can perform complex tasks to help you get started on projects.\r\nAdobe is building AI agents for Photoshop and Pre… [+2503 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "iRobot’s Roomba Combo 10 Max is nearly 50 percent off for Verge readers",
+            "description": "Wouldn’t it be nice to tidy up your home without breaking a sweat? The Roomba Combo 10 Max robovac / mop hybrid can make that dream a reality, as it delivers an almost fully hands-free cleaning experience. And now through tomorrow, April 19th, it’s on sale at…",
+            "url": "https://www.theverge.com/tech/651608/roomba-combo-10-max-steelseries-arctis-pro-wireless-headset-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/8A0A2623.webp?quality=90&strip=all&crop=0%2C10.72910606942%2C100%2C78.54178786116&w=1200",
+            "publishedAt": "2025-04-18T15:53:43Z",
+            "content": "We also found steep discounts on the last-gen Echo Show 5, Lego sets, and SteelSeries Arctis Pro Wireless headset.\r\nWe also found steep discounts on the last-gen Echo Show 5, Lego sets, and SteelSeri… [+3283 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Adobe’s new app helps credit creators and fight AI fakery",
+            "description": "Adobe has a new tool that makes it easier for creatives to be reliably credited for their work, even if somebody takes a screenshot of it and reposts it across the web. The Content Authenticity web app launching in public beta today allows invisible, tamper-r…",
+            "url": "https://www.theverge.com/news/654883/adobe-content-authenticity-web-app-beta-availability",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/ACA-Logo.jpg?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200",
+            "publishedAt": "2025-04-24T09:04:30Z",
+            "content": "Creatives can embed invisible attribution data and do not train AI tags to 50 images at once.\r\nCreatives can embed invisible attribution data and do not train AI tags to 50 images at once.\r\nAdobe has… [+4095 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "All of the news from Microsoft’s 50th Anniversary Copilot event",
+            "description": "Microsoft is holding a 50th Anniversary Copilot livestream today at 12:30PM ET / 9:30AM PT on April 4th, the same day Microsoft founders Bill Gates and Paul Allen started the company in 1975. Dubbed “Introducing your AI companion,” it’s set up for Microsoft t…",
+            "url": "https://www.theverge.com/news/643564/microsoft-50th-anniversary-livestream-copilot-ai-how-to-watch",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-04T16:17:33Z",
+            "content": "LIVEUpdated Today, Apr 4, 2025, 4:17 PM UTC\r\nMicrosoft is holding a 50th Anniversary Copilot livestream today at 12:30PM ET / 9:30AM PT on April 4th, the same day Microsoft founders Bill Gates and Pa… [+5926 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "Where to preorder all of the new Nintendo Switch 2 accessories",
+            "description": "The Switch 2 isn’t the only hardware launching on June 5th. Nintendo also plans to release a slate of new accessories for its upcoming gaming console, the bulk of which are now available for preorder at Walmart, Best Buy, and Target ahead of their release. Fr…",
+            "url": "https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Nintendo-Switch-2-Pro-Controller-Lifestyle-Image.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+            "publishedAt": "2025-04-24T04:03:16Z",
+            "content": "Nintendo’s next-gen Pro Controller introduces some welcome additions to one of the best gamepads around.\r\n\n\nThe Switch 2 isn’t the only hardware launching on June 5th. Nintendo also plans to release … [+5946 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "Nothing’s second modular phone reinvents the rules",
+            "description": "Nothing has announced the second phone under its colorful subbrand CMF: the Phone 2 Pro. Just like the first CMF phone, this is a modular handset with extra accessories you can screw into place. And also just like the first CMF phone, it’s not getting an offi…",
+            "url": "https://www.theverge.com/news/657064/nothing-cmf-phone-pro-2-launch-us-release-price-modules",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/nothing-cmf-phone-2-pro-07.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+            "publishedAt": "2025-04-28T13:40:03Z",
+            "content": "The Phone 2 Pro is compatible with a magnetic kickstand, a lanyard, and add-on lenses — all sold separately.\r\n\n\nNothing has announced the second phone under its colorful subbrand CMF: the Phone 2 Pro… [+6008 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Gigabyte Aorus Master 16 review: powerful graphics, LOUD FANS",
+            "description": "The Gigabyte Aorus Master 16 is a gaming laptop, and it sure looks like one. It's an inch thick, weighs 5.5 pounds, and is awash in RGB lighting, stylized text, and curved plastic. This Aorus Master offers powerful hardware and a lovely high-res, high-refresh…",
+            "url": "https://www.theverge.com/reviews/658137/gigabyte-aorus-master-16-gaming-laptop-rtx-5080-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257726_Gigabyte_Aorus_Master_16_laptop_ADiBenedetto_0024.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-05-02T19:57:08Z",
+            "content": "The Gigabyte Aorus Master 16 is a gaming laptop, and it sure looks like one. Its an inch thick, weighs 5.5 pounds, and is awash in RGB lighting, stylized text, and curved plastic. \r\nThis Aorus Master… [+9746 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Som-Mai Nguyen",
+            "title": "The Napalm Girl Standard",
+            "description": "It’s a photo you may have already seen. Captured in stark black and white, several Vietnamese children run down a road, flanked by soldiers. In the left foreground, there is a crying child whose mouth is contorted. But the viewer’s eye drifts toward the cente…",
+            "url": "https://www.theverge.com/cs/features/654425/vietnam-war-napalm-girl-photo-free-speech-nick-ut",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/GettyImages-615317056-4.jpg?quality=90&strip=all&crop=0%2C13.196158087836%2C100%2C73.607683824328&w=1200",
+            "publishedAt": "2025-04-24T14:00:02Z",
+            "content": "It’s a photo you may have already seen. Captured in stark black and white, several Vietnamese children run down a road, flanked by soldiers. In the left foreground, there is a crying child whose mout… [+15101 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Allison Johnson",
+            "title": "How an unused nuclear power plant became home to a world-class acoustics lab",
+            "description": "Itâs kind of impossible to grasp the enormity of a cooling tower until itâs suddenly right next to you. Never used for their intended purpose, the cooling towers of Washington Nuclear Projects 3 and 5 (WNP-3 and WNP-5) loom over treetops as I drive up to …",
+            "url": "https://www.theverge.com/tech/644385/nuclear-power-plant-acoustics-lab",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257642_Acoustic_company_nuclear_AJohnson_0017-2.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
+            "publishedAt": "2025-04-08T14:06:33Z",
+            "content": "How an unused nuclear power plant became home to a world-class acoustics lab\r\nThese scientists have taken extreme measures to get away from noise.\r\nHow an unused nuclear power plant became home to a … [+11672 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "YouTube is everything and everything is YouTube",
+            "description": "Looking back, the original idea behind YouTube seems almost quaint. The mythic founding story goes like this: in January of 2005, two PayPal employees, Chad Hurley and Steve Chen, were at a party. People were taking photos and videos on their digital cameras.…",
+            "url": "https://www.theverge.com/youtube/654240/youtube-future-creators-ai-music-content",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257706_Youtube_anniversary_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-23T13:05:55Z",
+            "content": "20 years in, YouTube is a dominant entertainment force. Now its coming for just about every way you spend your time.\r\nLooking back, the original idea behind YouTube seems almost quaint. The mythic fo… [+15855 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Fazioli",
+            "title": "Apple AirPods Pro 2 Just Dropped in Price, the Easter Deal Your Basket Needs",
+            "description": "Take this deal for 24% off and level up to spatial audio and state-of-the-art hearing protection from Apple's best AirPods yet.",
+            "url": "https://gizmodo.com/apple-airpods-pro-2-just-dropped-in-price-the-easter-deal-your-basket-needs-2000590473",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/AirPods-2-Pro.jpg",
+            "publishedAt": "2025-04-17T12:45:13Z",
+            "content": "If you’re reading this while you have a pair of older-model Apple AirPods in your ears, your willpower is kind of incredible. Since the release of the AirPods Pro 2 last September, you’ve made it thr… [+2602 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Brittany Vincent",
+            "title": "Beats Solo 4 Headphones Haven’t Bounced Back in Price Since the Amazon Spring Sale",
+            "description": "Get studio-quality sound without the studio price tag with $70 off these Beats headphones.",
+            "url": "https://gizmodo.com/beats-solo-4-headphones-havent-bounced-back-in-price-since-the-amazon-spring-sale-2000587072",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/beatssolo4-1.jpg",
+            "publishedAt": "2025-04-10T15:55:37Z",
+            "content": "The Beats Solo 4 represents a quantum leap in personal audio, delivering the kind of sound quality that makes you hear new details in songs you’ve listened to hundreds of times. These aren’t just hea… [+2470 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Brittany Vincent",
+            "title": "Marshall’s Bluetooth Speaker Drops Back to Black Friday Pricing as Tariff Pressures Build",
+            "description": "Take this must-have portable speaker anywhere you go for tunes on tap at your favorite places.",
+            "url": "https://gizmodo.com/marshalls-bluetooth-speaker-drops-back-to-black-friday-pricing-as-tariff-pressures-build-2000590692",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/marshallmiddleton.jpg",
+            "publishedAt": "2025-04-18T15:35:39Z",
+            "content": "Marshall, the brand synonymous with rock ‘n’ roll’s most iconic amplifiers, has distilled decades of audio expertise into the Middleton portable speaker. This rugged powerhouse delivers the company’s… [+2665 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Raymond Wong",
+            "title": "Carrie Bradshaw Would Love These Swarovski Crystal-Studded Motorola Earbuds",
+            "description": "AirPods have nothing on the Motorola's fashion-conscious Moto Buds Loop open-ear wireless earbuds.",
+            "url": "https://gizmodo.com/carrie-bradshaw-would-love-these-swarovski-crystal-studded-motorola-earbuds-2000593678",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/motorola-moto-buds-loop-swarovski-edition-1.jpg",
+            "publishedAt": "2025-04-24T16:00:03Z",
+            "content": "Considering how Carrie Bradshaw doesn’t give a damn about technology ecosystems in her later years (she uses a MacBook Pro and dual wields an iPhone and BlackBerry Key2 in the Sex and the City sequel… [+2387 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "AirPods Pro 2 Are Now Almost Free, Amazon Cuts The Price For The 3rd Time in a Month",
+            "description": "Apple’s AirPods Pro 2 are now available at an irresistible price.",
+            "url": "https://gizmodo.com/airpods-pro-2-are-now-almost-free-amazon-cuts-the-price-for-the-3rd-time-in-a-month-2000595397",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/AirPods-2-Pro.jpg",
+            "publishedAt": "2025-04-28T19:36:28Z",
+            "content": "When Apple launched the AirPods Pro 2 in May last year, they were top of the bill for wireless earbuds with a launching price of $249. But what distinguishes them in particular today is the massive p… [+2371 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "If You’re an iPhone Owner, These AirPods Pro 2 Now Cost Almost Nothing",
+            "description": "Don't miss this opportunity to get the most premium AirPods at a significant discount.",
+            "url": "https://gizmodo.com/if-youre-an-iphone-owner-these-airpods-pro-2-now-cost-almost-nothing-2000591974",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/AirPods-Pro-2.jpg",
+            "publishedAt": "2025-04-21T11:10:46Z",
+            "content": "Apple is synonymous with innovation and user experience, but the best the brand has to offer usually comes at a premium. Apple devices are (almost) never on sale and when they do go on sale, they are… [+2699 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Brittany Vincent",
+            "title": "Bose Repeats Its Black Friday Deal, SoundLink Flex Bluetooth Speaker Drops to Its Lowest Price Again",
+            "description": "The Bose SoundLink Flex is a powerful speaker to have in your corner, plus it comes in several different colors.",
+            "url": "https://gizmodo.com/bose-repeats-its-black-friday-deal-soundlink-flex-bluetooth-speaker-drops-to-its-lowest-price-again-2000587718",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/bosesoundlink.jpg",
+            "publishedAt": "2025-04-11T15:35:30Z",
+            "content": "In a world of tinny portable speakers, the Bose SoundLink Flex stands apart. This rugged little powerhouse delivers the kind of rich, room-filling sound that makes you wonder how something so compact… [+2731 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Apple Slashes AirPods 4 Price To Record Low, Now Under $100 And Cheaper Than Black Friday",
+            "description": "Despite potential tariff increases, Amazon has just announced record-low prices on the AirPods 4.",
+            "url": "https://gizmodo.com/apple-slashes-airpods-4-price-to-record-low-now-under-100-and-cheaper-than-black-friday-2000595008",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/03/AppleAirPods4.jpg",
+            "publishedAt": "2025-04-27T12:52:54Z",
+            "content": "In the current (very crowded) market of wireless earbuds, it’s hard to distinguish one pair from another: Most brands just replicate Apple’s AirPods’ design without delivering their performance or fe… [+2575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Forget Bose, These JBL Tune Headphones Now Cost Only $19 And Are The Absolute Best-Seller on Amazon",
+            "description": "This model rivals headphones that cost up to 10 times more.",
+            "url": "https://gizmodo.com/forget-bose-these-jbl-tune-headphones-now-cost-only-19-and-are-the-absolute-best-seller-on-amazon-2000588710",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/jbl-tune-headset.jpg",
+            "publishedAt": "2025-04-13T11:20:30Z",
+            "content": "The market is filled with literally hundreds of headphones available and it’s difficult not to feel somewhat… overwhelmed. With top brands such as Beats, Bose, Sonos, Apple, or Sony often costing $20… [+2438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "Lenovo’s Best-Selling IdeaPad Laptop Is Basically Free Now, 73% Off and 4.8 Stars on Amazon",
+            "description": "This Lenovo laptop has stellar reviews, and an even better discount.",
+            "url": "https://gizmodo.com/lenovos-best-selling-ideapad-laptop-is-basically-free-now-73-off-and-4-8-stars-on-amazon-2000586158",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/LenovoIdeapad-1.jpg",
+            "publishedAt": "2025-04-08T14:35:12Z",
+            "content": "On the lookout for a new PC? The Lenovo Essential IdeaPad is an ideal laptop for personal and professional use, designed for business and students alike. For a pretty affordable price as far as lapto… [+2125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Fazioli",
+            "title": "Blink Smart Security Camera Bundle Just Matched Black Friday Pricing on Amazon",
+            "description": "A 50% Amazon price drop makes this wireless system with video doorbell, 3 outdoor cams, and Sync Module 2 an absolute steal at $160.",
+            "url": "https://gizmodo.com/blink-smart-security-camera-bundle-just-matched-black-friday-pricing-on-amazon-2000587397",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Blink-Video-Doorbell-3-Outdoor-4-smart-security-cameras-4th-Gen-.jpg",
+            "publishedAt": "2025-04-10T12:55:08Z",
+            "content": "If your excuses for not getting a multi-camera security setup for your home have been “I’m waiting for the price to come down” or “they’re too hard to install,” today is the day you’re officially out… [+2366 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "This 32-Inch Fire TV Is Now Almost Free, and It Has a 4.5/5 Rating From Over 29,000 Reviews",
+            "description": "This is the kind of deal that doesn’t come around often.",
+            "url": "https://gizmodo.com/this-32-inch-fire-tv-is-now-almost-free-and-it-has-a-4-5-5-rating-from-over-29000-reviews-2000594649",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/02/insigniatv.jpg",
+            "publishedAt": "2025-04-26T11:10:41Z",
+            "content": "You don’t hear a Fire TV available for under $100 on a regular basis and when it does surface, no surprise it gets gobbled up quickly. Right now, you can purchase the Insignia 32″ 720p Fire TV from A… [+2093 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "While Tariffs Loom, Amazon Slashes Apple AirPods Max to Their Black Friday Price",
+            "description": "You don’t need to wait for a sale — AirPods Max are at their best price ever.",
+            "url": "https://gizmodo.com/while-tariffs-loom-amazon-slashes-apple-airpods-max-to-their-black-friday-price-2000589845",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/AppleAirPodsMax.jpg",
+            "publishedAt": "2025-04-16T12:15:57Z",
+            "content": "Earbuds are fine, but nothing compare to a solid pair of over-the-ear headphones. Apple has engineered a stylish and capable set of over-the-ear headphones with high-fidelity audio powered by Apples … [+2176 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Amazon Is Going All In, The Newest Echo Speaker Hits a Record Low in 2025 Despite Rising Tariffs",
+            "description": "It could be the best Echo speaker with Alexa available today.",
+            "url": "https://gizmodo.com/amazon-is-going-all-in-the-newest-echo-speaker-hits-a-record-low-in-2025-despite-rising-tariffs-2000591187",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/echo-speaker.jpg",
+            "publishedAt": "2025-04-19T13:10:36Z",
+            "content": "If youve been thinking about bringing Alexa into your home, now here’s your chance to do it. Amazons latest most premium Echo speaker (don’t confuse it with the more basic Echo Dot and Echo Spot mode… [+2550 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Fazioli",
+            "title": "The Newest Model of the Amazon Echo Speaker Is Finally Back to Its Holiday Pricing",
+            "description": "A limited-time Amazon deal takes 35% off the price of the Alexa-connected premium speaker and smart home hub.",
+            "url": "https://gizmodo.com/the-newest-model-of-the-amazon-echo-speaker-is-finally-back-to-its-holiday-pricing-2000588307",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Amazon-Echo-Newest-Model.jpg",
+            "publishedAt": "2025-04-14T13:55:07Z",
+            "content": "Having a smart home means you get to multitask. Or, more accurately, it means you get devices to multitask for you. And multitasking is the Amazon Echo’s specialty it’s a premium speaker, smart-home … [+2371 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Pre-order Switch 2: At What Exact Time Can You Purchase the New Console?",
+            "description": "No matter where you are in the U.S., here’s when you can pre-order the Nintendo Switch 2.",
+            "url": "https://gizmodo.com/pre-order-switch-2-at-what-exact-time-can-you-purchase-the-new-console-2000593245",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/switch2-nintendo.jpg",
+            "publishedAt": "2025-04-23T16:21:38Z",
+            "content": "“At what time exactly can you preorder the Nintendo Switch 2?” For eager gamers, that’s the very big question as June 5, 2025 (release date) gets closer. The general Switch 2 preorder window is offic… [+2652 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "Want Star Wars Vibes by May 4th? Grab the TIE Fighter Echo Dot Bundle at a Record Low Before It Flies Off",
+            "description": "This Amazon Alexa Echo Dot is bundled with a limited edition stand that looks like a Tie Fighter out of Star Wars.",
+            "url": "https://gizmodo.com/want-star-wars-vibes-by-may-4th-grab-the-tie-fighter-echo-dot-bundle-at-a-record-low-before-it-flies-off-2000593099",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/EchoDotTieFighter.jpg",
+            "publishedAt": "2025-04-23T14:55:34Z",
+            "content": "Amazon has altered the smart speaker product lineup. Pray they do not alter it further. The 2022 Echo Dot is still the newest model of its kind in Amazon’s lineup. We don’t have a new generation of t… [+2340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "Bose SoundLink Flex Bluetooth Speaker (2nd Gen) Hits Record Low, Including the Limited Edition Color",
+            "description": "Kick back to the big, bold sound of the Bose Soundlink Flex for 20% off.",
+            "url": "https://gizmodo.com/bose-soundlink-flex-bluetooth-speaker-2nd-gen-hits-record-low-including-the-limited-edition-color-2000594093",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/BoseSoundLinkFlex.jpg",
+            "publishedAt": "2025-04-25T15:35:33Z",
+            "content": "Feel that? That’s 70° air against your skin. The harsh winter ended a month ago and now we’re finally getting through the rainy, annoying end of spring. It feels good to be outside again. And being o… [+2079 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Amazon Clears Out Bose Headphones, Now Twice as Cheap as AirPods Max and Near Black Friday Lows",
+            "description": "You won’t find a better premium headphone with ANC at the moment.",
+            "url": "https://gizmodo.com/amazon-clears-out-bose-headphones-now-twice-as-cheap-as-airpods-max-and-near-black-friday-lows-2000591986",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/12/bose-quietcomfort-bluetooth-headphones.jpg",
+            "publishedAt": "2025-04-21T11:45:03Z",
+            "content": "If youre looking for a premium pair of wireless headphones that deliver exceptional sound quality including advanced noise cancellation, these Bose QuietComfort headphones stand out as (one of) the b… [+2422 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Brittany Vincent",
+            "title": "Sony WH-1000XM4 Headphones Just Got Cheaper, but Tariffs Could Drive the Price Back Up",
+            "description": "Enjoy your favorite music and voice calls with these reliable over-the-ear headphones that truly deliver.",
+            "url": "https://gizmodo.com/sony-wh-1000xm4-headphones-just-got-cheaper-but-tariffs-could-drive-the-price-back-up-2000589385",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/sonynoise.jpg",
+            "publishedAt": "2025-04-15T13:55:33Z",
+            "content": "Step into your own private concert hall with Sony’s WH-1000XM4, the headphones that consistently top “best-of” lists and make music lovers weak in the knees. These aren’t just headphones; they’re you… [+2576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Brittany Vincent",
+            "title": "Amazon’s Newest Fire TV Stick 4K Is So Cheap, It Feels Like a Glitch but It’s Real",
+            "description": "Take your must-have entertainment with you wherever you go, then just plug and play! It's that easy.",
+            "url": "https://gizmodo.com/this-newest-fire-tv-stick-4k-is-so-cheap-it-feels-like-a-glitch-but-its-real-2000595974",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/firetvstick.jpg",
+            "publishedAt": "2025-04-30T14:25:12Z",
+            "content": "These days, it’s nearly impossible to watch TV on a schedule. Primetime doesn’t mean home time for everyone, and you can’t live your life around when a TV show is coming on. Luckily, the age of strea… [+2030 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Brittany Vincent",
+            "title": "Forget JBL, the Bose SoundLink Micro Bluetooth Speaker Is Cheaper Than Its Black Friday Price",
+            "description": "You can carry this diminutive speaker with you everywhere you go to put a little party in your day.",
+            "url": "https://gizmodo.com/forget-jbl-the-bose-soundlink-micro-bluetooth-speaker-is-cheaper-than-its-black-friday-price-2000596522",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/bosesoundlink-1.jpg",
+            "publishedAt": "2025-05-01T14:55:08Z",
+            "content": "If you’re a big fan of listening to music or sharing the songs you love with the people you love, no doubt you already know how useful a portable speaker can be. And if not, let’s break it down for y… [+2012 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Brittany Vincent",
+            "title": "Ring Just Out-Discounted Black Friday, Its Latest Battery Doorbell Is Now Even Cheaper",
+            "description": "Take control of your home security with a video doorbell that can help you screen everyone who comes to your porch.",
+            "url": "https://gizmodo.com/ring-just-out-discounted-black-friday-its-latest-battery-doorbell-is-now-even-cheaper-2000586166",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/ringbdoorbell.jpg",
+            "publishedAt": "2025-04-08T15:40:34Z",
+            "content": "Porch pirates, unexpected visitors, and missed deliveries have met their match. The Ring Battery Doorbell has become a household essential for good reason – it’s the eyes and ears of your front door … [+2341 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Brittany Vincent",
+            "title": "Amazon’s Smart Home Bundle, Echo Pop With Smart Bulb, Is Almost Free Right Now",
+            "description": "Give your house a much-needed smart home makeover with this affordable set.",
+            "url": "https://gizmodo.com/amazons-smart-home-bundle-echo-pop-with-smart-bulb-is-almost-free-right-now-2000590792",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/echopoptp.jpg",
+            "publishedAt": "2025-04-18T13:55:43Z",
+            "content": "Looking to start your smart home journey or expand your existing setup? Amazon’s bundle combining the Echo Pop smart speaker with TP-Link’s advanced color smart bulb offers an ideal entry point into … [+2542 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Florence Ion",
+            "title": "Samsung Is Running Way Behind on Its Android 15 Update",
+            "description": "The company had to stop the update because of bugs right as Android 16 creeps around the corner.",
+            "url": "https://gizmodo.com/samsung-is-running-way-behind-on-its-android-15-update-2000589295",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Samsung-Galaxy-S25-One-UI_Hero.jpg",
+            "publishedAt": "2025-04-15T12:50:16Z",
+            "content": "Samsung’s One UI 7, the next version of its mobile operating system based on Android 15, has been delayed for several of the company’s latest flagship devices, namely 2024’s Galaxy S24 series, the Z … [+2487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Brittany Vincent",
+            "title": "This Ring Battery Doorbell and Camera Bundle Down to Just $80, Amazon’s 4.8-Star Security Duo",
+            "description": "Keep a watchful eye on your porch and beyond with 43% off this Ring Battery and Camera bundle on Amazon.",
+            "url": "https://gizmodo.com/this-ring-battery-doorbell-and-camera-bundle-down-to-just-80-amazons-4-8-star-security-duo-2000584917",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/ringdoorbelllg.jpg",
+            "publishedAt": "2025-04-04T15:20:22Z",
+            "content": "Ever had a package disappear from your porch? Or missed an important visitor while you were in the shower? Ring’s latest smart doorbell bundle is your answer to staying connected to your front door a… [+2308 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "The Blink Outdoor 4 Security System, 5 Cameras, Half Price, and Cheaper Than Buying 4-Pack",
+            "description": "Right now, you can actually get five cameras cheaper than it costs to get four.",
+            "url": "https://gizmodo.com/the-blink-outdoor-4-security-system-5-cameras-half-price-and-cheaper-than-buying-4-pack-2000585461",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/BlinkOutdoor4-five.jpg",
+            "publishedAt": "2025-04-07T13:05:45Z",
+            "content": "If youve ever been unfortunate enough to experience a break in at your home, youll know the experience shakes you. Our homes are private and sacred. Whether something was taken or not, you feel viola… [+2180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Germain Lussier",
+            "title": "Fly With Captain America and Falcon in This Exclusive Brave New World Clip",
+            "description": "Marvel's Captain America: Brave New World starring Anthony Mackie comes to digital April 15.",
+            "url": "https://gizmodo.com/fly-with-captain-america-and-falcon-in-this-exclusive-brave-new-world-clip-2000586574",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Captain-America-4-exclusive.jpg",
+            "publishedAt": "2025-04-11T14:00:16Z",
+            "content": "While the overall reaction to Captain America: Brave New Worldwas decidedly mixed, there was one thing everyone agreed on. The action scene featuring Captain America (Anthony Mackie) and the Falcon (… [+2103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "Your Amazon Alexa Can Now Ride Shotgun With You as the Echo Auto Drops to an All-Time Low",
+            "description": "Amazon Alexa hub designed for the open road, now just $35.",
+            "url": "https://gizmodo.com/your-amazon-alexa-can-now-ride-shotgun-with-you-as-the-echo-auto-drops-to-an-all-time-low-2000590480",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/EchoAuto.jpg",
+            "publishedAt": "2025-04-17T16:25:38Z",
+            "content": "Many of us spend a big chunk of our week behind the wheel, whether its from commuting to and from work an hour each way or just taking long multi-hour weekend trips across several states. And unless … [+2032 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Brittany Vincent",
+            "title": "Forget Bose, Amazon Is Clearing Out JBL Flip 5 Waterproof Bluetooth Speaker at an All-Time Low",
+            "description": "This JBL portable speaker is perfect for all those summer hangouts you'll be having this year.",
+            "url": "https://gizmodo.com/forget-bose-amazon-is-clearing-out-jbl-flip-5-waterproof-bluetooth-speaker-at-an-all-time-low-2000597134",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/jblflip5.jpg",
+            "publishedAt": "2025-05-02T13:55:22Z",
+            "content": "When you have a portable speaker you can take anywhere with you, you quickly become known as someone who can get the party started. You can listen to all the songs you want as well as podcasts or eve… [+1972 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Amazon Is Clearing Out Its Stock of These Older MacBook Airs, Now Almost 40% Off",
+            "description": "Probably the best MacBook Air deal on the market today.",
+            "url": "https://gizmodo.com/amazon-is-clearing-out-its-stock-of-these-older-macbook-airs-now-almost-40-off-2000591130",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/12/macbook-air.jpg",
+            "publishedAt": "2025-04-18T11:44:06Z",
+            "content": "If youve been waiting for the perfect moment to buy a premium MacBook Air, Amazons current deal on the 2022 MacBook Air (M2 chip, 8GB of RAM, 512GB of storage) is almost too good to be true. At $799 … [+2722 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Fazioli",
+            "title": "Amazon Forgot to Take the 2024 MacBook Air Off Sale After Their Big Spring Event",
+            "description": "The big sale is over, but the 13-inch M3-powered Apple laptop is still at its record-low price of just $999.",
+            "url": "https://gizmodo.com/amazon-forgot-to-take-the-2024-macbook-air-off-sale-after-their-big-spring-event-2000585043",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/03/MacBook-Air-M3-2024.jpg",
+            "publishedAt": "2025-04-04T13:25:37Z",
+            "content": "Don’t say anything, but it looks like Amazon might have had a little oopsie after their Big Spring Sale. They forgot to take the 13-inch 2024 M3 MacBook Air, which fell to an all-time low price of $9… [+2338 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Thomas Maxwell",
+            "title": "Crosswalks in Silicon Valley Hacked to Talk Like Musk and Zuckerberg",
+            "description": "In one snippet, a crosswalk hacked to sound like Mark Zuckerberg told individuals there was nothing they could do to stop progress of AI.",
+            "url": "https://gizmodo.com/crosswalks-in-silicon-valley-hacked-to-talk-like-musk-and-zuckerberg-2000589013",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/GettyImages-2209410742.jpg",
+            "publishedAt": "2025-04-14T15:40:59Z",
+            "content": "Over the weekend, crosswalk pedestrian signals in the backyard of Mark Zuckerberg and Elon Musk were hacked to play voices imitating their likeness. But they were not exactly kind to the billionaires… [+3108 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Pre-order Switch 2: Where to Buy the Switch 2 with Guaranteed Delivery on Launch Day?",
+            "description": "You’ll want to pick the right place to preorder your Switch 2.",
+            "url": "https://gizmodo.com/pre-order-switch-2-where-to-buy-the-switch-2-with-guaranteed-delivery-on-launch-day-2000593228",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/nintendo-switch2.jpg",
+            "publishedAt": "2025-04-23T13:04:38Z",
+            "content": "The Nintendo Switch 2 is now available to pre-order starting tonight with the official release date as June 5, 2025. Walmart is beginning pre-orders of the Switch 2 precisely at midnight Eastern Time… [+3469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Brittany Vincent",
+            "title": "Google Pixel Buds A-Series Match Black Friday Price Again on Amazon, and They’re Nearly Free",
+            "description": "Listen to your favorite music and podcasts with these great Android-centric earbuds that last and last.",
+            "url": "https://gizmodo.com/google-pixel-buds-a-series-match-black-friday-price-again-on-amazon-and-theyre-nearly-free-2000597281",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/googlepixelbudsaseries.jpg",
+            "publishedAt": "2025-05-02T12:50:16Z",
+            "content": "If youve been on the hunt for a reliable pair of wireless earbuds that wont cost a fortune, you’ve probably checked out all the usual suspects: JBL, JLab, Skullcandy, and buds and other audio of that… [+2521 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "Nothing’s ChatGPT-Powered Earbuds Are Smarter and Cheaper Than AirPods Pro",
+            "description": "What does it mean for a pair of earbuds to be integrated with ChatGPT? Unclear, but they're 28% off.",
+            "url": "https://gizmodo.com/nothings-chatgpt-powered-earbuds-are-smarter-and-cheaper-than-airpods-pro-2000592461",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/ChatGPTearbuds.jpg",
+            "publishedAt": "2025-04-22T15:55:21Z",
+            "content": "Everyone has a near for at least one solid pair of headphones or earbuds. Whether its to enjoy music or podcasts on the subway, watch videos without disturbing those around you, or to take calls easi… [+2459 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "The Official Office 2024 Lifetime License Is Priced at a Record Low, Now 40% Off",
+            "description": "Choosing between Office 2024 and Microsoft 365 is a no-brainer.",
+            "url": "https://gizmodo.com/the-official-office-2024-lifetime-license-is-priced-at-a-record-low-now-40-off-2000588991",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/office-24-home.jpg",
+            "publishedAt": "2025-04-14T13:46:04Z",
+            "content": "If you want to avoid paying every month with Microsoft 365, Microsoft Office 2024 Home &amp; Business is the way to go. StackSocial is currently offering a lifetime license for just $159, which is th… [+3120 chars]"
+        }
+    ]
+}

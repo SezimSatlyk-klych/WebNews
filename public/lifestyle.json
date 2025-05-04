@@ -1,0 +1,1293 @@
+{
+    "status": "ok",
+    "totalResults": 9435,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Adrienne So",
+            "title": "Garmin Vivoactive 6 Review: Reliable, Real Intelligence",
+            "description": "New subscription service notwithstanding, Garmin’s latest entry-level tracker is still reliable and attractive and works great.",
+            "url": "https://www.wired.com/review/garmin-vivoactive-6/",
+            "urlToImage": "https://media.wired.com/photos/6802d3bd68bf21be6e9c8d99/191:100/w_1280,c_limit/Garmin-Vivoactive_042025_Lede.jpg",
+            "publishedAt": "2025-04-19T13:33:00Z",
+            "content": "Garmin, the maker of our favorite fitness trackers, has several series of entry-level hybrid trackers. Sorting through them can be confusing. The Venu series is the most expensive, the premium tracke… [+2295 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Scharon Harding, Ars Technica",
+            "title": "LG’s Integrated TV Ad Tech Analyzes Your Emotions",
+            "description": "LG has licensed tech that claims to interpret TV users’ feelings and convictions. The company will use this data to more directly target the ads it’s showing to users of its smart TV platform.",
+            "url": "https://www.wired.com/story/lg-zenapse-integrated-tv-ads-emotional-analysis/",
+            "urlToImage": "",
+            "publishedAt": "2025-04-18T10:30:00Z",
+            "content": "LG TVs will soon leverage an artificial intelligence model built for showing advertisements that more closely align with viewers' personal beliefs and emotions.\r\nThis story originally appeared on Ars… [+4180 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "TikTok is shutting down its Instagram-like Notes app",
+            "description": "TikTok is shutting down Notes, its photos-sharing app that rivaled Instagram. In a notification to users, the TikTok Notes team says the app will stop working starting May 8th, and “all related features will no longer be available.” TikTok first rolled out No…",
+            "url": "https://www.theverge.com/news/643063/tiktok-notes-shutting-down-instagram-rival",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK051_VRG_Illo_N_Barclay_9_tiktok.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-03T20:43:04Z",
+            "content": "The photo-sharing app will shut down a little over a year after it launched.\r\nThe photo-sharing app will shut down a little over a year after it launched.\r\nTikTok is shutting down Notes, its photos-s… [+1172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Brittany Vincent",
+            "title": "Why Pay More at Costco? Sam’s Club 1-Year Membership Is Practically Free",
+            "description": "This 60% discounted membership means you can shop with huge savings on all your household and grocery needs.",
+            "url": "https://gizmodo.com/why-pay-more-at-costco-sams-club-1-year-membership-is-practically-free-2000597104",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/samclubmembership.jpg",
+            "publishedAt": "2025-05-02T14:55:23Z",
+            "content": "Have you seen the prices of groceries out there? Actually, forget groceries, everything is more expensive now. And it’s only getting worse. One way to save money is by buying in bulk. You can do that… [+2351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "BMI Is Actually Pretty Accurate at Measuring American Obesity, Study Finds",
+            "description": "New research shows that nearly everyone with a obese BMI would be considered obese using other common tests.",
+            "url": "https://gizmodo.com/bmi-is-actually-pretty-accurate-at-measuring-american-obesity-study-finds-2000594382",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/weight-measurement.jpg",
+            "publishedAt": "2025-04-28T11:00:18Z",
+            "content": "Body mass index might be a more accurate measurement than commonly thought. New research shows that a vast majority of people with a BMI signifying obesity have substantial excess body fat.\r\nScientis… [+3262 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "Scientists May Have Figured Out Why Young People Are Getting Colorectal Cancer More Often",
+            "description": "New research has found a link between a toxin produced by certain E. coli bacteria and early onset colorectal cancer.",
+            "url": "https://gizmodo.com/scientists-may-have-figured-out-why-young-people-are-getting-colorectal-cancer-more-often-2000594349",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/e-coli.jpg",
+            "publishedAt": "2025-04-25T16:04:00Z",
+            "content": "A common bacteria in our gut might be stirring up more trouble than we knew. A study out this week has found evidence that a mutagenic toxin produced by some strains of Escherichia coli can trigger e… [+4435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "Semaglutide Shows Major Promise for Treating Serious Liver Disease",
+            "description": "Semaglutide and similar GLP-1 drugs are poised to become frontline treatments for a severe form of liver disease.",
+            "url": "https://gizmodo.com/semaglutide-shows-major-promise-for-treating-serious-liver-disease-2000596492",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/GLP-1s.jpg",
+            "publishedAt": "2025-04-30T21:00:47Z",
+            "content": "Semaglutide, the active ingredient in popular drugs Ozempic and Wegovy, is poised to add to its growing list of medical uses. In a large-scale clinical trial published today, semaglutide was found to… [+4231 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Meghan's Marmite effect may well work to her advantage",
+            "description": "As the Duchess of Sussex builds her lifestyle empire, experts examine her popularity rating - and where she goes from here.",
+            "url": "https://www.bbc.com/news/articles/cz79wq00425o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83d8/live/6816d870-0faa-11f0-ba12-8d27eb561761.png",
+            "publishedAt": "2025-04-06T23:13:58Z",
+            "content": "Five years on from Megxit, as the Duchess of Sussex launches a new lifestyle empire, her viewing figures are high but, in the UK at least, popularity levels are low. So, ahead of the release of her n… [+15245 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "I won't put my relationships online again, says Lilly Sabri",
+            "description": "The influencer explains how she rebuilt her life after a podcast implicated her fiancé had had an affair.",
+            "url": "https://www.bbc.com/news/articles/c4g22mvmkmeo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/574f/live/655f2e00-15f6-11f0-b1b3-7358f8d35a35.jpg",
+            "publishedAt": "2025-04-19T01:29:31Z",
+            "content": "Zoe Kleinman\r\n\"Be mindful about what you're sharing, because once it's online, it's online forever,\" says Lilly Sabri.\r\nThe fitness influencer, who has six million followers on YouTube, has urged fan… [+4257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Bites on gladiator bones prove combat with lion",
+            "description": "Experts say the discovery provides the first physical evidence of gladiatorial combat with animals.",
+            "url": "https://www.bbc.com/news/articles/cp8v2063r19o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6d2c/live/e7d109b0-2034-11f0-9f40-15f12af7a309.jpg",
+            "publishedAt": "2025-04-23T18:01:24Z",
+            "content": "Alex Moss\r\nVictoria GillScience correspondent, BBC News\r\nThe skeleton of the young man was found during a 2004 dig in York\r\nBite marks found on the skeleton of a Roman gladiator are the first archaeo… [+4026 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Diddy lawyers argue 'swinger lifestyle' not a crime ahead of trial",
+            "description": "The rapper's attorneys say his sexual encounters were appropriate, and deny they amount to sex trafficking.",
+            "url": "https://www.bbc.com/news/articles/crld171w4k3o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/522c/live/370f1130-2214-11f0-a723-4bf9d1cbdb38.jpg",
+            "publishedAt": "2025-04-25T23:44:09Z",
+            "content": "Pratiksha GhildialReporting from\r\nCourthouse in Manhattan \r\nLawyers for Sean \"Diddy\" Combs appear to have offered a preview of his legal defence in his sex trafficking case, arguing that the rapper l… [+3117 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'Tech entrepreneur took our money but failed to deliver our start-up dreams'",
+            "description": "One client of Josh Adler re-mortgaged their home, another spent life savings to pay for websites and apps.",
+            "url": "https://www.bbc.com/news/articles/cwy6nky0x89o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/eee1/live/2a8b7b20-1462-11f0-ba12-8d27eb561761.png",
+            "publishedAt": "2025-04-27T05:41:36Z",
+            "content": "Former clients of a Canadian tech entrepreneur say they were let down after they paid his company tens of thousands of dollars to help launch their start-ups.\r\nPeople across the world - from Scotland… [+12759 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seths.blog"
+            },
+            "author": "Seth Godin",
+            "title": "Simple and painless productivity",
+            "description": "On the factory floor, productivity increases are relentlessly implemented, often without regard for worker satisfaction. For people working with a laptop, though, they are often seen as optional lifestyle choices instead of ways to significantly boost how muc…",
+            "url": "https://seths.blog/2025/04/simple-and-painless-productivity/",
+            "urlToImage": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061315.jpg",
+            "publishedAt": "2025-04-23T09:03:00Z",
+            "content": "On the factory floor, productivity increases are relentlessly implemented, often without regard for worker satisfaction.\r\nFor people working with a laptop, though, they are often seen as optional lif… [+1391 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "Nicholas Sutrich",
+            "title": "An E Ink phone isn't something you just switch to in one day",
+            "description": "Minimalist phones are trending, but don't expect to get one and immediately feel relief from digital addiction.",
+            "url": "https://www.androidcentral.com/phones/an-e-ink-phone-isnt-something-you-just-switch-to-in-one-day",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/tWfc6m8TM7rzJjhPjFkVE5.jpg",
+            "publishedAt": "2025-04-23T20:35:12Z",
+            "content": "Over the past few years, I've become increasingly concerned about eye health and how much time I spend on my digital devices. My colleague, Namerah, recently published an editorial about how minimali… [+6297 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "michael.hicks@futurenet.com (Michael L Hicks)",
+            "title": "UNA and Pebble represent a new wave of open-source smartwatches, and I'm on board",
+            "description": "The fitness-focused UNA Watch has dual-band GPS and a 10-day battery, and you can upgrade features with add-on modules or replace the battery.",
+            "url": "https://www.androidcentral.com/wearables/this-modular-repairable-pebble-like-watch-has-me-excited-for-more-open-source-watches",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/N5yH7JPoTd3DQmG5vYt2hK-1200-80.jpg",
+            "publishedAt": "2025-04-06T06:00:00Z",
+            "content": "Only a few weeks after preorders opened for the rebooted Pebble Core watches, Scottish indie brand UNA kickstarted \"the world's first\" repairable &amp; upgradable GPS sports watch: the UNA Watch. And… [+4648 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "Nicholas Sutrich, Brady Snyder",
+            "title": "Tiny Chromebook screen got you down? My favorite portable monitors fix that",
+            "description": "Chromebooks are great and quite portable, but did you know monitors can be, too? Try out these portable monitors and take your desk with you when you travel!",
+            "url": "https://www.androidcentral.com/accessories/tiny-chromebook-screen-got-you-down-my-favorite-portable-monitors-fix-that",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qNvsgG9Gr5NW9STE8zjBP9.jpg",
+            "publishedAt": "2025-04-23T21:35:26Z",
+            "content": "As we approach Summer, I'm gearing up for a busy travel season. Between work trips and vacation, there's no shortage of reasons I'll be away from my desk for the next few months.\r\n(Image credit: Nich… [+9288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Everything Rumored for the 2025 Apple Watch Series 11",
+            "description": "As we celebrate the 10th anniversary of the Apple Watch today, we thought we'd take a look at what Apple has in store for the next-generation version of the device that's coming this fall. The Apple Watch Series 11 doesn't sound like it's going to be a ground…",
+            "url": "https://www.macrumors.com/guide/apple-watch-series-11/",
+            "urlToImage": "https://images.macrumors.com/t/jdzZpnmsQKKjg1ZYdw-RuMLwE7Y=/2500x/article-new/2025/03/apple-watch-series-10-blue-hue.jpeg",
+            "publishedAt": "2025-04-24T23:52:26Z",
+            "content": "As we celebrate the 10th anniversary of the Apple Watch today, we thought we'd take a look at what Apple has in store for the next-generation version of the device that's coming this fall. The Apple … [+5411 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "What's Next for the Apple Watch Ultra 3 and Apple Watch SE 3",
+            "description": "This week marks the 10th anniversary of the Apple Watch, which launched on April 24, 2015. Yesterday, we recapped features rumored for the Apple Watch Series 11, but since 2015, the Apple Watch has also branched out into the Apple Watch Ultra and the Apple Wa…",
+            "url": "https://www.macrumors.com/2025/04/25/apple-watch-ultra-se-whats-next/",
+            "urlToImage": "https://images.macrumors.com/t/OzRGZt_Z35l0OTgxoFB5PWmtwLU=/2250x/article-new/2023/05/apple-watch-ultra-yellow.jpg",
+            "publishedAt": "2025-04-25T21:44:33Z",
+            "content": "This week marks the 10th anniversary of the Apple Watch, which launched on April 24, 2015. Yesterday, we recapped features rumored for the Apple Watch Series 11, but since 2015, the Apple Watch has a… [+7213 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "iOS 19 Will Add These New Features to Your iPhone",
+            "description": "The first iOS 19 beta is less than two months away, and there are already a handful of new features that are expected with the update.\n\n\n\n\n\nApple should release the first iOS 19 beta to developers immediately following the WWDC 2025 keynote, which is schedule…",
+            "url": "https://www.macrumors.com/2025/04/15/ios-19-will-add-these-new-features/",
+            "urlToImage": "https://images.macrumors.com/t/ZhlSp-BYCkBI5M9MWmnDp4W9_-I=/2500x/article-new/2024/11/iOS-19-Roundup-Feature.jpg",
+            "publishedAt": "2025-04-15T14:37:04Z",
+            "content": "The first iOS 19 beta is less than two months away, and there are already a handful of new features that are expected with the update.\r\nApple should release the first iOS 19 beta to developers immedi… [+6113 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Amanda Kooser",
+            "title": "Martha Stewart Joins Those Joking About All-Female Blue Origin Crew",
+            "description": "The lifestyle legend quoted Katy Perry's song \"Firework\" as she shared video of her own 2007 zero-gravity flight.",
+            "url": "https://www.cnet.com/science/space/martha-stewart-joins-those-joking-about-all-female-blue-origin-crew/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/d7f424902e98f7bbfc03bb7916b5e41b79c459f9/hub/2025/04/14/c79b27c4-367f-4097-aae7-39e38cc3f894/ns31.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-04-18T21:22:00Z",
+            "content": "An all-female group, including pop star Katy Perry, went briefly to space for an 11-minute flight on Monday. The criticism that followed has lasted much longer. And it keeps on coming.\r\nOn Friday, li… [+4387 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Hedy Phillips",
+            "title": "Can NAD Plus Supplements Really Reverse the Aging Process? We Asked a Doctor to Find Out",
+            "description": "These anti-aging supplements are gaining popularity, but you should know their benefits, side effects and risk factors before taking them.",
+            "url": "https://www.cnet.com/health/nutrition/nad-supplements/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/84fae8cd4ac41fabdf493a669ec909e8325f19d8/hub/2025/01/31/056bc686-5a58-40f5-8806-27ca904c66eb/person-holding-white-pills.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-04-29T16:30:43Z",
+            "content": "You may have heard of NAD plus supplements on social media recently. They're currently seeing a rise in popularity thanks to claims that they can \"reverse\" the aging process. But how true is that?\r\nN… [+9512 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Jessica Rendall",
+            "title": "Experts Share With Us What Nutrients to Focus on Outside of Protein",
+            "description": "One of the biggest things you hear about when healthy eating comes up is protein, but experts say there are other nutrients you should focus more on.",
+            "url": "https://www.cnet.com/health/nutrition/experts-share-with-us-what-nutrients-to-focus-on-outside-of-protein/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/5831bb6692f769c517cacd3f3e2e84b1870ba40e/hub/2024/11/08/207badae-6ab0-403b-af69-fd148a7ff6a5/gettyimages-917385234.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-04-17T16:57:00Z",
+            "content": "If you're looking at healthy eating or getting into working out, you're likely to see a lot of information on social media about how to get your protein in. It may have you thinking you need to do mo… [+8877 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Melissa Noble)",
+            "title": "My family of 5 has made lifestyle adjustments to save money. We buy generic grocery brands and cut back on subscription services.",
+            "description": "My family of 5 saves money on groceries by meal-planning and checking per-unit prices. We also cut down on subscription services and shop secondhand.",
+            "url": "https://www.businessinsider.com/family-saving-money-tips-generic-brands-cut-back-subscriptions-2025-4",
+            "urlToImage": "https://i.insider.com/6801261ea466d2b74ab37479?width=1200&format=jpeg",
+            "publishedAt": "2025-04-25T10:07:01Z",
+            "content": "As a family of five, we have definitely felt the pinch in recent years. It feels like so many things are getting more expensive, including the cost of groceries, daycare, utility bills, insurance pre… [+3870 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "sgrindell@businessinsider.com (Samantha Grindell)",
+            "title": "Meghan Markle says she gets caught in '3 a.m. loops' worrying about As Ever",
+            "description": "Meghan Markle opened up about her anxiety around launching As Ever in the first episode of her new podcast, \"Confessions of a Female Founder.\"",
+            "url": "https://www.businessinsider.com/meghan-markle-worried-about-as-ever-launching-business-new-podcast-2025-4",
+            "urlToImage": "https://i.insider.com/67f573aaa466d2b74ab29396?width=1200&format=jpeg",
+            "publishedAt": "2025-04-08T18:56:35Z",
+            "content": "Meghan Markle is back in the podcast booth.\r\nOn Tuesday, the Duchess of Sussex launched her new podcast, \"Confessions of a Female Founder.\" She previously hosted the \"Archetypes\" podcast with Spotify… [+3683 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Jennifer Gonick)",
+            "title": "My favorite minimalist home brand is holding a huge Amazon sale — Save on Yamazaki organization",
+            "description": "Yamazaki Home is an editor-favorite home organization brand in 2025. Score deals on their whole collection on Amazon for a limited time.",
+            "url": "https://www.businessinsider.com/guides/deals/yamazaki-home-amazon-sale-2025-4",
+            "urlToImage": "https://i.insider.com/6801505ea466d2b74ab37df6?width=1200&format=jpeg",
+            "publishedAt": "2025-04-17T20:52:50Z",
+            "content": "As someone who lives in a small New York City apartment, I know how easily clutter can get out of hand. Investing in aesthetically pleasing storage and organization solutions is a game changer for li… [+3925 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "cboudreau@insider.com (Catherine Boudreau)",
+            "title": "A Gen Xer left California to start a business in a retiree hot spot in Mexico. His only regret is that he didn't do it sooner.",
+            "description": "Malahki Thorn left California to escape wildfire risks and start a new business in Puerto Vallarta's booming real estate market.",
+            "url": "https://www.businessinsider.com/gen-xer-moved-california-puerto-vallarta-started-business-real-estate-2025-4",
+            "urlToImage": "https://i.insider.com/68016dda3fe8d39283636c27?width=1200&format=jpeg",
+            "publishedAt": "2025-04-18T07:03:02Z",
+            "content": "Malahki Thorn vividly remembers flames encroaching on his house in the wilderness of northern California.\r\nIt was 2015, and the Saddle Fire burned about 1,500 acres in Hyapom, a small town about six … [+3931 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "sacevedo@businessinsider.com (Sophia Acevedo)",
+            "title": "The easiest bill to negotiate down, according to financial planners",
+            "description": "Financial planners say the easiest bill to negotiate is a medical bill. You can also negotiate or cut down on other bills in smart ways.",
+            "url": "https://www.businessinsider.com/easiest-bill-to-negotiate-down-according-financial-planners-2025-4",
+            "urlToImage": "https://i.insider.com/680686c6c6ad288d147eb30b?width=1200&format=jpeg",
+            "publishedAt": "2025-04-22T18:27:51Z",
+            "content": "When you're trying to curb spending, some of the biggest cost-cutting mistakes you can make are overlooking recurring expenses and only focusing on small expenses. Really, you need to look at everyth… [+6121 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "kelkins@businessinsider.com (Kathleen Elkins)",
+            "title": "A couple used a beginner-friendly but 'unconventional' real estate strategy to fast-track their way to early retirement",
+            "description": "\"We haven't had a mortgage payment since 2016 — that's the last time I made a mortgage payment without having renters.\"",
+            "url": "https://www.businessinsider.com/beginner-friendly-real-estate-investment-strategy-house-hacking-early-retirement-2025-4",
+            "urlToImage": "https://i.insider.com/680960f0a466d2b74ab3ffac?width=1200&format=jpeg",
+            "publishedAt": "2025-04-24T09:00:03Z",
+            "content": "Since 2017, Jeff White and Suleyka Bolaños have moved homes once a year.\r\nThey've shared walls with neighbors in duplexes and triplexes, and shared common spaces with roommates in single-family homes… [+7181 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "cahlgrim@insider.com (Callie Ahlgrim)",
+            "title": "Lana Del Rey has alienated fans with problematic comments and lyrics. Here's a timeline of the singer's controversies.",
+            "description": "Lana Del Rey said she \"kissed Morgan Wallen\" during her recent performance at Stagecoach, fueling speculation about her political beliefs.",
+            "url": "https://www.businessinsider.com/lana-del-rey-problematic-backlash-timeline-2021-1",
+            "urlToImage": "https://i.insider.com/680fb753c6ad288d147f5593?width=1200&format=jpeg",
+            "publishedAt": "2025-04-28T20:57:29Z",
+            "content": "At the dawn of a new decade, Lana Del Rey seemed poised at the summit of the indie-pop mountain.\r\nThe songstress, now 39, was still riding the high of \"Norman Fucking Rockwell!\" her career-topping si… [+30771 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "NPR Staff",
+            "title": "Can't-miss interviews: Cory Booker, Elizabeth Olsen and the latest on tariffs",
+            "description": "A lot happened this week, and NPR has you covered. Catch up on the big news and culture moments you might have missed.",
+            "url": "https://www.npr.org/2025/04/05/g-s1-57778/best-news-interviews-cory-booker",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1350+0+0/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2F13%2F7873368d4e33a8532575e9554b61%2Fbooker-olsen-mooney.png",
+            "publishedAt": "2025-04-05T11:00:00Z",
+            "content": "A lot happened this week, and NPR has you covered. Catch up on the big news and culture moments you might have missed.\r\nWe spoke to Sen. Cory Booker after his record-breaking speech on the Senate flo… [+5664 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Carrie Kahn",
+            "title": "Ecuador's next president faces rampant drug violence and few resources to combat it",
+            "description": "Ecuador's runoff vote pits Trump ally and incumbent Daniel Noboa against leftist challenger Luisa González, in an election dominated by the issue of security in a highly polarized political landscape.",
+            "url": "https://www.npr.org/2025/04/12/nx-s1-5359427/ecuadors-next-president-faces-rampant-drug-violence-and-few-resources-to-combat-it",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+250/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2Fe1%2F23fbc88d4efca5f3432b3c076a9c%2Fgettyimages-2208599040.jpg",
+            "publishedAt": "2025-04-12T10:00:00Z",
+            "content": "GUAYAQUIL, Ecuador Sunday's presidential election in Ecuador is one of the closest\r\n and most decisive in recent years. It comes as drug gang violence hits record levels,\r\n with Ecuador now experienc… [+5217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Brittney Melton",
+            "title": "White House looks for new defense secretary. And, remembering Pope Francis' legacy",
+            "description": "The White House is searching for a new defense secretary to replace Pete Hegseth after a second Signal group chat controversy. And, Pope Francis' legacy is remembered worldwide.",
+            "url": "https://www.npr.org/2025/04/22/g-s1-62027/up-first-newsletter-defense-secretary-pete-hegseth-pope-francis",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5180x2914+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2F9b%2F4c844fd74a9fba31fd301a046258%2Fgettyimages-2211267281.jpg",
+            "publishedAt": "2025-04-22T10:50:23Z",
+            "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+5689 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Will Stone",
+            "title": "Damage from gut bacteria may play a role in the rise in colon cancer in young adults",
+            "description": "Scientists have a new clue in the mystery of why younger people are getting more colon cancer. It may have to do with a toxin produced by a common gut microbe.",
+            "url": "https://www.npr.org/sections/shots-health-news/2025/04/25/g-s1-62623/colon-cancer-gut-health-microbiome-young",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2309x1299+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2Fb4%2F2f78e60e46639ebf521eea7a80f3%2Fgettyimages-1386022867.jpg",
+            "publishedAt": "2025-04-25T10:00:00Z",
+            "content": "It's unclear why colon cancer cases have doubled in people under 55 over the past two decades, a staggering rise that has alarmed doctors and cancer researchers.\r\nBut part of the story could be colib… [+5633 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "The Tumblr Revival is Real - and Gen Z is Leading the Charge",
+            "description": "\"Gen Z is rediscovering Tumblr — a chaotic, cozy corner of the internet untouched by algorithmic gloss and influencer overload...\" writes Fast Company, \"embracing the platform as a refuge from an internet saturated with influencers and algorithm fatigue.\"\n\nTh…",
+            "url": "https://tech.slashdot.org/story/25/04/07/0350213/the-tumblr-revival-is-real---and-gen-z-is-leading-the-charge",
+            "urlToImage": "https://a.fsdn.com/sd/topics/social_64.png",
+            "publishedAt": "2025-04-07T04:10:00Z",
+            "content": "\"Gen Z is rediscovering Tumblr — a chaotic, cozy corner of the internet untouched by algorithmic gloss and influencer overload...\" writes Fast Company, \"embracing the platform as a refuge from an int… [+4385 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kwan Wei Kevin Tan",
+            "title": "The White House says Trump's weight and 'frequent victories' at golf games are evidence of good health",
+            "description": "\"His active lifestyle continues to contribute significantly to his well-being,\" Trump's doctor wrote in his medical report.",
+            "url": "https://www.businessinsider.com/white-house-trump-golf-victories-evidence-of-good-health-2025-4",
+            "urlToImage": "https://i.insider.com/67fc74c0a466d2b74ab30d19?width=1200&format=jpeg",
+            "publishedAt": "2025-04-14T05:01:11Z",
+            "content": "President Donald Trump's doctor said Trump weighed 224 pounds. That is 20 pounds lighter than Trump's last physical exam as president in 2020.Kevin Dietsch via Getty Images\r\n<ul><li>The White House r… [+2815 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Becky Martin",
+            "title": "I lived overseas in my 20s and 30s. Now, in my 40s, I'm learning that there's value in staying put.",
+            "description": "Living abroad in Taiwan, she loved her job, lifestyle, and the financial security it brought. The plan was to relocate permanently.",
+            "url": "https://www.businessinsider.com/living-abroad-far-away-from-family-moved-back-taiwan-canada-2025-4",
+            "urlToImage": "https://i.insider.com/67ef3d7363d72727e1992bb9?width=1200&format=jpeg",
+            "publishedAt": "2025-04-09T00:14:01Z",
+            "content": "Becky Martin and her partner moved to TaiwanBecky Martin\r\n<ul><li>Becky Martin and her partner moved to Taiwan in their 20s in search of adventure and to pay off student loans.</li><li>A few years la… [+3640 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lauren Edmonds",
+            "title": "I was a stay-at-home mom. Now, I'm a fashion influencer in her 50s with brand deals and a podcast.",
+            "description": "Caroline Baudino is a 53-year-old fashion and lifestyle influencer. She used to be a stay-at-home mom before a pivotal event changed her life.",
+            "url": "https://www.businessinsider.com/stay-at-home-mom-caroline-baudino-fashion-lifestyle-influencer-career-2025-3",
+            "urlToImage": "https://i.insider.com/67e5b5d1b8b41a9673fbeca2?width=1200&format=jpeg",
+            "publishedAt": "2025-04-07T09:15:02Z",
+            "content": "Caroline Baudino is a lifestyle and fashion content creator based in California.Caroline Baudino\r\n<ul><li>Caroline Baudino is a content creator with over 1.4 million social media followers.</li><li>B… [+4447 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Serafina Kenny",
+            "title": "A longevity doctor lost 50 pounds because he worried he wouldn't see his son grow up. He made 4 simple lifestyle changes.",
+            "description": "When Dr. Darshan Shah was 42 and expecting his first child, he realized it was time to improve his health. He made changes including cutting out ultra-processed foods.",
+            "url": "https://www.businessinsider.com/simple-lifestyle-changes-longevity-doctor-lose-50-pounds-2025-4",
+            "urlToImage": "https://i.insider.com/67ee88a863d72727e199123c?width=1200&format=jpeg",
+            "publishedAt": "2025-04-12T05:12:01Z",
+            "content": "Darshan Shah uses what he learned about his own health to treat his patients.Darshan Shah\r\n<ul><li>When Dr. Darshan Shah was expecting his first child, he was stressed and overweight.</li><li>He fear… [+5723 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kaila Yu",
+            "title": "I'm retiring from my tech job at 31. A Coast FIRE lifestyle and side hustles will make me a millionaire in my 60s.",
+            "description": "Elena Kodama saved $150,000 in her 20s from software engineering. With this foundation and her side hustles, she'll have over $1.5 million in her 60s.",
+            "url": "https://www.businessinsider.com/retiring-tech-early-coast-fire-make-me-millionaire-2025-4",
+            "urlToImage": "https://i.insider.com/6807be0fc6ad288d147ec9bd?width=1200&format=jpeg",
+            "publishedAt": "2025-04-23T09:05:02Z",
+            "content": "Elena Kodama.Courtesy of Elena Kodama\r\n<ul><li>Elena Kodama plans to quit her software engineering job for a Coast FIRE lifestyle.</li><li>Coast FIRE allows part-time work and financial independence … [+4341 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jenna DeLaurentis",
+            "title": "I moved from a city that's cloudy 50% of the year to one of the sunniest places in the US. It's changed my life.",
+            "description": "Years ago, I moved to Reno, one of the sunniest cities in the US. Before, I lived in one of the cloudiest regions in the Midwest. Life is better now.",
+            "url": "https://www.businessinsider.com/moved-to-one-of-us-sunniest-cities-reno-nevada-benefits-2025-4",
+            "urlToImage": "https://i.insider.com/67f68557a466d2b74ab2a7df?width=1200&format=jpeg",
+            "publishedAt": "2025-04-18T11:22:02Z",
+            "content": "I moved to one of the sunniest US cities from one of the cloudiest. I miss living near family, but my new outdoor lifestyle is hard to beat.Jenna DeLaurentis\r\n<ul><li>About seven years ago, I moved f… [+4139 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kirsten Lie-Nielsen",
+            "title": "We moved to a farm in rural Maine because we thought homesteading would save us money. It didn't.",
+            "description": "I thought homesteading would save us money on groceries and allow us to be self-sufficient. I was wrong, but we still love our farm.",
+            "url": "https://www.businessinsider.com/homesteading-didnt-save-money-groceries-2025-4",
+            "urlToImage": "https://i.insider.com/67f94c0dc6ad288d147df2a2?width=1200&format=jpeg",
+            "publishedAt": "2025-04-13T11:33:01Z",
+            "content": "The author still keeps goats on her farm, even though she's no longer a homesteader.Courtesy of Kirsten Lie-Nielsen\r\n<ul><li>About 10 years ago, my husband and I decided to try homesteading.</li><li>… [+6336 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sarah Khan",
+            "title": "Our rent doubled after we got married, so we became digital nomads. It was challenging until I established a daily routine.",
+            "description": "In the beginning, I constantly felt torn and caught in between: not quite in \"vacation mode,\" but not working in a traditional sense either.",
+            "url": "https://www.businessinsider.com/digital-nomad-life-was-hard-established-routine-notion-daily-schedule-2025-4",
+            "urlToImage": "https://i.insider.com/6801c8d8a466d2b74ab3884e?width=1200&format=jpeg",
+            "publishedAt": "2025-04-18T06:56:51Z",
+            "content": "When Sarah Khan and her husband's landlord doubled their rent, they decided to live as digital nomads.Sarah Khan\r\n<ul><li>Sarah Khan, 33, and her husband both had flexible jobs and dreamed of living … [+5715 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mackenzie Meaney",
+            "title": "A data startup working with Formula 1 raised $5 million to expand betting on niche and emerging sports",
+            "description": "ALT Sports Data, founded by GoPro alums, raised $5 million to drive betting and fan engagement for niche and emerging sports like Formula 1.",
+            "url": "https://www.businessinsider.com/alt-sports-data-raises-funding-expand-betting-niche-emerging-leagues-2024-4",
+            "urlToImage": "https://i.insider.com/68028b1dc6ad288d147e9502?width=522&format=jpeg",
+            "publishedAt": "2025-04-21T08:23:01Z",
+            "content": "Joe Dunnigan and Todd Ballard founded ALT Sports Data.Todd Ballard\r\n<ul><li>ALT Sports Data gathers data on niche sports so sportsbooks can create bets.</li><li>The company, which works with leagues … [+3749 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Noah Sheidlower",
+            "title": "I retired 24 years ago with $1.3 million saved. Joy in retirement isn't a given — we made sacrifices to get here.",
+            "description": "Bill Bengel, 84, a Michigan retiree, stopped working 24 years ago. After an amputation, he's learned to reevaluate his retirement goals.",
+            "url": "https://www.businessinsider.com/early-retirement-advice-social-security-strategies-health-crisis-aging-2025-4",
+            "urlToImage": "https://i.insider.com/68001347a466d2b74ab35e2b?width=1200&format=jpeg",
+            "publishedAt": "2025-04-17T08:07:01Z",
+            "content": "IanDikhtiar\r\n<ul><li>Bill Bengel, a Michigan retiree, retired 24 years ago and lived at a lake house for 20 years.</li><li>Bengel enjoyed a fulfilling retirement after decades of careful financial pl… [+7132 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Rachel Hosie",
+            "title": "'Modern Family' star Eric Stonestreet reveals he's been taking Mounjaro for type 2 diabetes since 2022. It has changed his life in 2 ways.",
+            "description": "Stonestreet was diagnosed with type 2 diabetes in 2009, but kept it a secret. He told Business Insider why he's speaking out about having the condition for the first time.",
+            "url": "https://www.businessinsider.com/eric-stonestreet-modern-family-weight-loss-type-2-diabetes-mounjaro-2025-5",
+            "urlToImage": "https://i.insider.com/68134ba33fe8d39283649714?width=1200&format=jpeg",
+            "publishedAt": "2025-05-01T18:01:01Z",
+            "content": "Eric Stonestreet in March 2025 (left) and as Cam on \"Modern Family.\"Frazer Harrison/Getty Images, Jill Greenberg via Getty Images\r\n<ul><li>Eric Stonestreet told Business Insider that he has type 2 di… [+7059 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Stephanie Davis",
+            "title": "When my husband wanted to retire early, I agreed to do the same. But I hated retirement life, so I went back to work.",
+            "description": "I hated retirement, so I went back to work. But my husband loves it, so he's focused on saving money. We fought a lot because I want to keep spending.",
+            "url": "https://www.businessinsider.com/husband-retired-save-money-wife-keep-spending-2025-4",
+            "urlToImage": "https://i.insider.com/67f7c0a43fe8d3928362ae0c?width=1200&format=jpeg",
+            "publishedAt": "2025-04-13T11:47:02Z",
+            "content": "The author (not pictured) struggled with early retirement.janiecbros/Getty Images\r\n<ul><li>My husband wanted to retire early, so I agreed to do the same, but I hated it.</li><li>I went back to work w… [+3669 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Allie Kelly",
+            "title": "A boomer retired with over $1 million in the bank. Now, she travels Europe: 'I can't say I would have done much differently'",
+            "description": "Nancy Neff, 72, retired with over $1 million in savings after decades of careful money management. She's now traveling around Belgium and France.",
+            "url": "https://www.businessinsider.com/retire-as-millionaire-boomer-travels-world-frugal-living-budgeting-2025-4",
+            "urlToImage": "https://i.insider.com/680162c9c6ad288d147e7fe1?width=1200&format=jpeg",
+            "publishedAt": "2025-04-20T08:02:01Z",
+            "content": "Nancy Neff, 72, (not pictured) retired comfortably and travels the world.Tatiana Maksimova/Getty Images\r\n<ul><li>Nancy Neff, 72, enjoys a travel-filled retirement funded by a strong 401(k) and saving… [+4439 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Geoff Weiss",
+            "title": "I quit my dream job at YouTube to become a full-time creator. It was the best career decision I've ever made.",
+            "description": "Alex Costa left his dream job at YouTube to become a full-time creator. Today, his startup is on track for $10 million in revenue this year.",
+            "url": "https://www.businessinsider.com/quit-dream-job-youtube-to-become-full-time-creator-2025-4",
+            "urlToImage": "https://i.insider.com/68123988a466d2b74ab491e0?width=1200&format=jpeg",
+            "publishedAt": "2025-05-01T08:21:02Z",
+            "content": "Alex Costa said quitting his job at YouTube was the toughest, scariest, and best career decision of his life.Amy Sussman/Getty Images for Critics Choice Association\r\n<ul><li>Alex Costa quit his dream… [+4759 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Laura Italiano",
+            "title": "Drivers, start your evidence: NY jury to hear roaring tale of a NASCAR superfan and his allegedly crooked hedge fund",
+            "description": "Prosecutors say Andrew Franzone went from stock cars to stock fraud. He says his investment in Nvidia-backed CoreWeave shows his risk-taking paid off.",
+            "url": "https://www.businessinsider.com/hedge-fund-founder-nascar-superfan-trial-for-fraud-andrew-franzone-2025-4",
+            "urlToImage": "https://i.insider.com/67f97ab0c6ad288d147dff5a?width=1200&format=jpeg",
+            "publishedAt": "2025-04-13T09:03:02Z",
+            "content": "Laura Italiano, RacingOne/Getty, Alan_Lagadu/Getty, Ava Horton/BI\r\n<ul><li>NASCAR enthusiast and Miami hedge-fund founder Andrew Franzone goes on trial in Manhattan on Monday.</li><li>Federal prosecu… [+6831 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Eve Crosbie",
+            "title": "'Emily in Paris' season 5 is on the way, but one major character won't be returning. Here's what we know.",
+            "description": "Season five of the hit Netflix show \"Emily in Paris\" is set to begin filming in Rome in May.",
+            "url": "https://www.businessinsider.com/emily-in-paris-season-5-returning-cast-release-date-plot-2025-4",
+            "urlToImage": "https://i.insider.com/6803a864a466d2b74ab3a636?width=1200&format=jpeg",
+            "publishedAt": "2025-04-20T10:17:08Z",
+            "content": "Lily Collins as Emily Cooper in \"Emily in Paris.\"Netflix\r\n<ul><li>Season five of the hit Netflix show \"Emily in Paris\" is in the works and set for release this year.</li><li>Filming is set to take pl… [+3514 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kim Schewitz",
+            "title": "A longevity scientist who says he has reversed his age by 15 years shares his weekly workout routine",
+            "description": "Dr. Eric Verdin believes exercising for an hour each day has made the biggest difference to his health.",
+            "url": "https://www.businessinsider.com/a-longevity-scientist-shared-his-weekly-workout-routine-2025-4",
+            "urlToImage": "https://i.insider.com/67efe62db8b41a9673fca886?width=1200&format=jpeg",
+            "publishedAt": "2025-04-05T08:03:02Z",
+            "content": "Dr. Eric Verdin exercises for an hour most days.Buck Insititute for Research on Aging/Getty Images\r\n<ul><li>A longevity scientist who claims he reversed his age by 15 years believes exercise had the … [+3397 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Suzanne Hayes",
+            "title": "I've spent 20 years raising 3 student athletes. Being a sports mom was both awful and rewarding.",
+            "description": "I spent decades waking up early and dedicating my life to being a sports mom. There were times I loved it, but a lot of the time, I was miserable.",
+            "url": "https://www.businessinsider.com/sports-mom-raising-student-athletes-awful-rewarding-2025-4",
+            "urlToImage": "https://i.insider.com/680a8b853fe8d3928363fe37?width=1200&format=jpeg",
+            "publishedAt": "2025-04-27T12:07:02Z",
+            "content": "Courtesy of Suzanne Hayes\r\n<ul><li>I spent decades waking up early and dedicating my life to being a sports mom.</li><li>It wasn't easy; I often dreaded it, and it sometimes brought out the worst in … [+3189 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dominick Reuter",
+            "title": "Chick sales are on track for a record-breaking year as egg prices drive more people to raise poultry in their back yards, Tractor Supply CEO says",
+            "description": "Tractor Supply Co. CEO Hal Lawton said recently high egg prices brought a wave of first-time chick buyers to his stores.",
+            "url": "https://www.businessinsider.com/tractor-supply-chick-sales-on-track-record-year-egg-prices-2025-4",
+            "urlToImage": "https://i.insider.com/680a98923fe8d392836401e7?width=1200&format=jpeg",
+            "publishedAt": "2025-04-27T09:22:01Z",
+            "content": "Baby chicks take about 18 to 22 weeks to mature enough to start laying eggs.Dominick Reuter/Business Insider\r\n<ul><li>Tractor Supply Co. is halfway through its annual baby chick sales event, with str… [+2666 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Veronica Zora Kirin",
+            "title": "My partner and I moved from Chicago to Berlin because we were bored. We weren't expecting such a big culture shock.",
+            "description": "It only took weeks for him to get a job offer and then we quickly had to move from Chicago to Berlin. I'm thankful for universal healthcare.",
+            "url": "https://www.businessinsider.com/we-moved-from-the-us-to-germany-in-three-weeks-2025-4",
+            "urlToImage": "https://i.insider.com/67ec269769253ccddf9ae839?width=1200&format=jpeg",
+            "publishedAt": "2025-04-08T18:28:01Z",
+            "content": "The author and her partner have been in Germany since 2021.Courtesy of Daria Globina\r\n<ul><li>Stuck at home in 2020, my partner and I talked about moving abroad.</li><li>He started looking for a job … [+4794 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Christian Axness",
+            "title": "My family turned a 400-square-foot trailer with rotting floors into a mobile home with 2 bedrooms and a rock wall. See inside.",
+            "description": "Our family of four live on the road in a trailer we renovated into our dream home with nice kitchen appliances, two bedrooms, and bathrooms.",
+            "url": "https://www.businessinsider.com/family-renovated-rv-into-tiny-home-on-wheels-2025-4",
+            "urlToImage": "https://i.insider.com/68064e16a466d2b74ab3ae94?width=1200&format=jpeg",
+            "publishedAt": "2025-04-21T13:56:15Z",
+            "content": "My family began living on the road in a renovated RV after we sold our home.Christian Axness\r\n<ul><li>I gutted a 400-square-foot trailer and renovated it into a home on wheels for my family of four. … [+5316 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Monica Humphries",
+            "title": "A couple who lives part-time in Bali spent $1.7 million building 2 luxury villas that they rent out for parties",
+            "description": "Justin and Annabelle Parfitt spend half the year in Bali, where they built a $1.7 million compound and now run a short-term rental business.",
+            "url": "https://www.businessinsider.com/couple-built-bali-party-villas-short-term-rentals-2025-4",
+            "urlToImage": "https://i.insider.com/67e30d3563d72727e1983829?width=1024&format=jpeg",
+            "publishedAt": "2025-04-20T10:49:01Z",
+            "content": "The villa at sunset.Kasianda\r\n<ul><li>Justin and Annabelle Parfitt decided to live part-time between Bali and France in 2017.</li><li>They purchased a land lease in Bali and spent $1.7 million buildi… [+5937 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Amanda Perelli",
+            "title": "How to make a smart budget during economic turmoil, according to finance influencers",
+            "description": "Finance influencers shared their top budgeting tips and advice, from planning incoming cash flow to negotiating bills.",
+            "url": "https://www.businessinsider.com/how-to-make-smart-budget-stock-market-crash-tariff-turmoil-2025-4",
+            "urlToImage": "https://i.insider.com/67f44a083fe8d392836261ea?width=1200&format=jpeg",
+            "publishedAt": "2025-04-09T11:30:01Z",
+            "content": "Personal finance influencers Nadia Vanderhall, Mal Baska, and Tolani Eweje.Photography credit: Nadia Vanderhall, Felicia Sneddon, Afolabi Mosuro.\r\n<ul><li>Trump's new tariff policies have caused a ma… [+4958 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Pooja Shah",
+            "title": "I worked in Bengaluru and Silicon Valley. Here's how the two tech hubs compare.",
+            "description": "Founder Punit Soni grew up in India and moved to Silicon Valley in the early 2000s. He returned to Bengaluru ten years later for work.",
+            "url": "https://www.businessinsider.com/ive-lived-in-silicon-valley-and-bengaluru-work-culture-differs-2025-4",
+            "urlToImage": "https://i.insider.com/67fe36dfa466d2b74ab32ba4?width=1200&format=jpeg",
+            "publishedAt": "2025-04-15T11:26:51Z",
+            "content": "Soni now lives in Silicon Valley and runs his healthcare startup, Suki, but visits India often.Flipkart \r\n<ul><li>Punit Soni moved to Bengaluru, India, in 2015 for a new exec role after a decade in S… [+5378 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Fleurine Tideman",
+            "title": "I spent a year traveling around Europe to find where I wanted to live. After several misses, I've settled into my dream city.",
+            "description": "I traveled around Europe for a year to find the best European city to live in. I visited lots of places before settling in the perfect spot.",
+            "url": "https://www.businessinsider.com/traveled-europe-finding-best-european-city-live-in-london-2025-4",
+            "urlToImage": "https://i.insider.com/67ec2cfa63d72727e198db9e?width=1200&format=jpeg",
+            "publishedAt": "2025-04-04T12:27:01Z",
+            "content": "I traveled around Europe for a year to find the best European city to live in.Fleurine Tideman\r\n<ul><li>At the end of 2023, I decided to travel around Europe to find a new place to call home.</li><li… [+4989 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alexandra Frost",
+            "title": "I grocery shop at 4 stores because my kids have different dietary needs. It's becoming too stressful, so I'm implementing changes.",
+            "description": "All seven of my family members have different dietary needs, so I often run around to multiple grocery stores. I'm now rethinking how I shop and cook.",
+            "url": "https://www.businessinsider.com/mom-grocery-shopping-stressful-kids-dietary-needs-2025-5",
+            "urlToImage": "https://i.insider.com/68125594c6ad288d147f9500?width=1200&format=jpeg",
+            "publishedAt": "2025-05-01T10:07:01Z",
+            "content": "The author often goes to multiple grocery stores to shop for her kids.Hispanolistic/Getty Images\r\n<ul><li>All my kids have different dietary needs, so I often run to multiple grocery stores.</li><li>… [+4350 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mackenzie Meaney",
+            "title": "How college basketball star Flau'jae Johnson scored more than 40 NIL deals and is putting her money to work for her",
+            "description": "College basketball star Flau'jae Johnson has inked about 40 NIL deals and invests in building passive income and growing her wealth.",
+            "url": "https://www.businessinsider.com/how-flaujae-johnson-turns-nil-brand-deals-into-financial-empowerment-2025-4",
+            "urlToImage": "https://i.insider.com/680944aba466d2b74ab3f9da?width=1200&format=jpeg",
+            "publishedAt": "2025-04-24T16:12:49Z",
+            "content": "Flau'jae Johnson estimates she has over 40 NIL deals.Steph Chambers/Getty Images\r\n<ul><li>Flau'jae Johnson is one of the biggest stars in college basketball, and she's playing a long game.</li><li>Sh… [+3738 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Melissa Noble",
+            "title": "I found a full-time job in my industry right after I graduated. I was persistent, but also realistic.",
+            "description": "When I graduated in 2007, I found a full-time job in journalism. Having work experience and realistic expectations helped.",
+            "url": "https://www.businessinsider.com/full-time-job-after-college-graduation-tips-work-experience-2025-4",
+            "urlToImage": "https://i.insider.com/67fd3eed3fe8d3928363017f?width=1200&format=jpeg",
+            "publishedAt": "2025-04-18T10:07:02Z",
+            "content": "The author landed a job in a newsroom right after graduating.Courtesy of Melissa Noble\r\n<ul><li>I always wanted to be a journalist even though I knew it was a tough industry.</li><li>I landed a full-… [+3794 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Rachel Hosie",
+            "title": "I want to lose 30 pounds and improve my heart health. A dietitian said to eat more, including at breakfast.",
+            "description": "A dietitian told a Business Insider reader who shared what she eats most days that eating more food could give her more energy and boost her metabolism.",
+            "url": "https://www.businessinsider.com/eat-more-lose-weight-improve-heart-health-dietitian-2025-4",
+            "urlToImage": "https://i.insider.com/67f3cce55d203112923e3d4f?width=1200&format=jpeg",
+            "publishedAt": "2025-04-07T13:36:23Z",
+            "content": "Toast, tomatoes, and eggs is a nutritious and satiating breakfast.istetiana/Getty Images\r\n<ul><li>A 44-year-old woman who is sedentary and wants to lose weight shared her diet with Business Insider.<… [+4388 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tim Stevensen",
+            "title": "I tried — and failed — to lose weight many times. My wife suggested that we do a couples challenge and we put $5,000 on the line for the winner.",
+            "description": "A $5,000 weight-loss challenge between me and my wife was the push I needed to move more and eat better.",
+            "url": "https://www.businessinsider.com/man-struggled-with-weight-loss-wife-proposed-couples-challenge-2025-4",
+            "urlToImage": "https://i.insider.com/67ffc4b73fe8d3928363352a?width=1200&format=jpeg",
+            "publishedAt": "2025-04-16T22:57:01Z",
+            "content": "After years of yo-yo dieting, a challenge with my wife (not pictured) proved to be the push I needed to succeed.Zave Smith/Getty Images\r\n<ul><li>My wife and I have both struggled with weight loss ove… [+4693 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Aditi Bharade",
+            "title": "I'm a luxury handbag authenticator. Here's why you should avoid Chinese manufacturers on TikTok who try to sell 'real' Birkins for cheap.",
+            "description": "Koyaana Redstar, a luxury bag authenticator, said Chinese manufacturers touting authentic Birkins on TikTok should be taken with a pinch of salt.",
+            "url": "https://www.businessinsider.com/beware-chinese-manufacturers-selling-real-birkins-cheap-luxury-handbag-authenticator-2025-4",
+            "urlToImage": "https://i.insider.com/677f907ff83fcec7e5b52a2a?width=1024&format=jpeg",
+            "publishedAt": "2025-04-28T05:19:32Z",
+            "content": "A Bonhams employee holding up a green leather Hermès Birkin bag at an auction in London.AP Photo/Kirsty Wigglesworth\r\n<ul><li>Koyaana Redstar, a luxury bag authenticator, has decades of experience id… [+3904 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katie Notopoulos",
+            "title": "Starbucks wants to add an afternoon snack menu. I'm hungry — I can see why.",
+            "description": "Starbucks knows you want a little afternoon snack with your coffee drink. So it's looking at adding a new menu. I have some ideas.",
+            "url": "https://www.businessinsider.com/starbucks-snack-new-menu-drink-order-why-coffee-2025-5",
+            "urlToImage": "https://i.insider.com/6814f1c3a466d2b74ab4df73?width=1200&format=jpeg",
+            "publishedAt": "2025-05-03T10:46:02Z",
+            "content": "I tried having an afternoon snack at Starbucks. Mission completed.Katie Notopoulos / Business Insider\r\n<ul><li>Starbucks CEO Brian Niccol says he wants to add an \"aperitivo\" menu — late afternoon bit… [+4981 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Christine Ji",
+            "title": "Trump's tariffs are fueling a rise in weird new gadgets",
+            "description": "Trump's tariffs are fueling a rise in weird new gadgets that can do more than one thing. They're especially popular among Gen Z.",
+            "url": "https://www.businessinsider.com/americans-buying-multipurpose-goods-lipstick-makeup-kitchen-gadgets-tariffs-genz-2025-5",
+            "urlToImage": "https://i.insider.com/681537973fe8d3928364d8c0?width=1200&format=jpeg",
+            "publishedAt": "2025-05-03T08:37:02Z",
+            "content": "Keisha Sarpong needed a new work bag to ferry her documents and laptop to the office. But as she started looking, she realized she didn't want the bag to make her look too much \"like a lawyer with a … [+11891 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lauren Manaker",
+            "title": "I'm a dietitian on the Mediterranean diet. Here are 12 things I buy at Trader Joe's when I don't feel like cooking.",
+            "description": "I'm a registered dietitian who follows the Mediterranean diet but dislikes cooking. Luckily, I've found Trader Joe's staples to make easy meals.",
+            "url": "https://www.businessinsider.com/trader-joes-mediterranean-diet-recommendations-from-dietitian-minimal-cooking-2023-9",
+            "urlToImage": "https://i.insider.com/68001262a466d2b74ab35dec?width=1200&format=jpeg",
+            "publishedAt": "2025-04-16T20:27:08Z",
+            "content": "As a dietitian, I get many of my favorite Mediterranean-diet staples at Trader Joe's when I can find them. Lauren Manaker\r\n<ul><li>I've been a dietitian for over 20 years and follow the Mediterranean… [+6239 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Laura Italiano",
+            "title": "Why Diddy wants sexually squeamish people banished from the jury pool before voir dire even starts",
+            "description": "A proposed jury questionnaire will flag anyone too squeamish to deliberate about sex with fellow jurors. Jury experts say that's a smart move.",
+            "url": "https://www.businessinsider.com/diddy-wants-sex-squeamish-off-sex-trafficking-jury-2025-4",
+            "urlToImage": "https://i.insider.com/680123f3a466d2b74ab373e4?width=1200&format=jpeg",
+            "publishedAt": "2025-04-17T17:13:11Z",
+            "content": "The federal sex-trafficking trial of Sean \"Diddy\" Combs is scheduled to begin in three weeks in Manhattan.Shane Gritzinger/FilmMagic\r\n<ul><li>Sean Combs' lawyers want the jury pool pre-screened to ke… [+6199 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jennifer Krosche Moreno",
+            "title": "My husband works at Trader Joe's, and we both swear by these 12 purchases",
+            "description": "I'm married to someone who works at Trader Joe's. The best things we buy at Trader Joe's for two people include frozen meals, wine, and ice cream.",
+            "url": "https://www.businessinsider.com/best-things-for-2-trader-joes-from-worker-and-wife-2025-4",
+            "urlToImage": "https://i.insider.com/67eee11f63d72727e1992466?width=1200&format=jpeg",
+            "publishedAt": "2025-04-05T13:28:01Z",
+            "content": "We buy a lot of our favorite groceries at Trader Joe's now that my husband works there. Jennifer Krosche Moreno\r\n<ul><li>We started buying a lot of our groceries at Trader Joe's once my husband began… [+6194 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Aditi Bharade",
+            "title": "He won a $1 million lottery, then quit his cushy insurance job to open a Cantonese barbequed pork stall. Trading a corporate office for a hot kitchen was harder than he thought.",
+            "description": "Eight years after starting his hawker stall, 37-year-old Ivan Leong is rethinking his choice of laboring behind a hot oven and working 11-hour days.",
+            "url": "https://www.businessinsider.com/he-won-lottery-quit-insurance-job-opened-roast-pork-stall-2025-3",
+            "urlToImage": "https://i.insider.com/67c9672f69253ccddf986fb5?width=1200&format=jpeg",
+            "publishedAt": "2025-04-18T00:18:02Z",
+            "content": "Ivan Leong, owner of the Cantonese roast pork business Char Siu Lang, runs two outlets in Singapore.Aditi Bharade\r\n<ul><li>Ivan Leong won a $1 million lottery when he was 23.</li><li>After years of c… [+6431 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Kay",
+            "title": "Tesla really wants the Cybertruck to be a working man's truck",
+            "description": "Over the past few months, Tesla has made moves to position the Cybertruck as a working man's vehicle. Goodbye, DeLorean — hello, Ford F-150.",
+            "url": "https://www.businessinsider.com/tesla-cybertruck-revamp-working-man-f-150-2025-4",
+            "urlToImage": "https://i.insider.com/6802c9db3fe8d39283638b9c?width=1200&format=jpeg",
+            "publishedAt": "2025-04-22T08:15:02Z",
+            "content": "Getty Images; Chelsea Jia Feng/BI\r\nWhen Tesla launched the Cybertruck in 2023, it was the product of four years of hype. The boxy electric pickup was the company's first new model since 2020. Kim Kar… [+6344 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alexandra Frost",
+            "title": "I moved to Spain from the US after college. It was a relief to leave behind the American hustle culture.",
+            "description": "Katie Passarello moved from the US to Spain on the Fulbright program and never left. She met her partner and they've bought an old Spanish apartment.",
+            "url": "https://www.businessinsider.com/moved-spain-after-college-american-living-abroad-2025-5",
+            "urlToImage": "https://i.insider.com/68136110a466d2b74ab4b13c?width=1200&format=jpeg",
+            "publishedAt": "2025-05-01T12:09:55Z",
+            "content": "Katie Passarello now lives with her Spanish partner, whom she met while studying her Master's.Katie Passarello\r\n<ul><li>Katie Passarello moved from California to Spain as a coteacher with the Fulbrig… [+6286 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alcynna Lloyd",
+            "title": "I moved to Panama. It feels like I'm living a dream because it's affordable and I'm so much more relaxed.",
+            "description": "Kimberly Kelley, 71, moved to a small town on the beach in Panama for retirement. Her groceries, car, and health costs are cheaper, and she's happier.",
+            "url": "https://www.businessinsider.com/moved-to-panama-from-us-for-retirement-cost-pros-cons-2025-4",
+            "urlToImage": "https://i.insider.com/67f7cdf9c6ad288d147dc69e?width=960&format=jpeg",
+            "publishedAt": "2025-04-10T15:37:19Z",
+            "content": "Kimberly Kelley moved to Panama in 2023.Courtesy of Kimberly Kelley\r\n<ul><li>Kimberly Kelley, 71, moved from a small town in Arizona to Panama in 2023.</li><li>Kelley lives in a condo on the beach, p… [+7643 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alcynna Lloyd",
+            "title": "We've visited 47 countries. These are the 5 we don't plan to revisit.",
+            "description": "Alicia Walter and Nathan Stark have traveled the world, but not every trip was great. Here are five countries they visited and won't be returning to.",
+            "url": "https://www.businessinsider.com/5-countries-a-couple-wont-revisit-after-visiting-47-countries-2025-4",
+            "urlToImage": "https://i.insider.com/67fea1c6c6ad288d147e3685?width=1080&format=jpeg",
+            "publishedAt": "2025-04-15T22:03:21Z",
+            "content": "Alicia Walter and her partner, Nathan Stark, have traveled to 47 countries together.Courtesy of Alicia Walter\r\n<ul><li>Alicia Walter and Nathan Stark have traveled to 47 countries across the globe.</… [+8126 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Samantha Grindell,Amanda Krause,Erin McDowell",
+            "title": "We shopped Target's new Kate Spade line, and it's the chain's best designer collaboration yet",
+            "description": "Target and Kate Spade launched a limited-edition collaboration on Saturday. Three Business Insider reporters loved the line for different reasons.",
+            "url": "https://www.businessinsider.com/target-kate-spade-collection-review-2025-4",
+            "urlToImage": "https://i.insider.com/67feb4f93fe8d3928363240b?width=1200&format=jpeg",
+            "publishedAt": "2025-04-17T17:07:35Z",
+            "content": "Business Insider checked out Target's new line with Kate Spade.Samantha Grindell/Business Insider\r\n<ul><li>Target and Kate Spade dropped a limited-edition collaboration last week.</li><li>The line in… [+8520 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Emily Stewart",
+            "title": "'25 is the new 21': Gen Z is taking the slow road to adulthood",
+            "description": "Gen Z is intentionally delaying major life milestones like buying a home, getting a job, and getting married.",
+            "url": "https://www.businessinsider.com/gen-z-delays-work-marriage-children-homebuying-delayed-development-2025-4",
+            "urlToImage": "https://i.insider.com/6802b87ac6ad288d147e9f0c?width=1200&format=jpeg",
+            "publishedAt": "2025-04-28T08:13:01Z",
+            "content": "Carl Godfrey for BI\r\nElise Monsanto plans to get around to some of the \"grown-up\" milestones that generally mark early adulthood; she's just not in a rush. She didn't get her driver's license until s… [+14720 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Rong Xiaoqing",
+            "title": "America is about to be hit by a 'tsunami' of authentic Chinese restaurants",
+            "description": "Dozens of Chinese restaurant chains are opening their doors in America — if they can survive the backlash.",
+            "url": "https://www.businessinsider.com/china-restaurants-food-chains-coming-us-geopolitical-trade-war-backlash-2025-4",
+            "urlToImage": "https://i.insider.com/67eaa4b0b8b41a9673fc255c?width=1200&format=jpeg",
+            "publishedAt": "2025-04-05T08:24:02Z",
+            "content": "The midtown Manhattan building where Jackie Kennedy, Elizabeth Taylor, and Truman Capote once dined, then the legendary French restaurant La Grenouille, is now a nondescript renovation site with wood… [+12435 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Samantha Grindell",
+            "title": "A couple added a $200,000 in-law suite to their home. Independence and curb appeal were priorities in the multigenerational makeover.",
+            "description": "Lexi Poer and her family built a second home on their property for her mom. The two houses connect, giving them a multigenerational space.",
+            "url": "https://www.businessinsider.com/family-added-in-law-suite-to-home-multigenerational-living-photos-2025-4",
+            "urlToImage": "https://i.insider.com/67e2c90c69253ccddf9a3a62?width=1200&format=jpeg",
+            "publishedAt": "2025-04-05T10:02:01Z",
+            "content": "Lexi Poer and her family have a multigenerational home.Strolling in the Suburbs\r\n<ul><li>Lexi and Jordan Poer bought their forever home in 2017.</li><li>Six years later, they decided to build a secon… [+12084 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Reed Alexander",
+            "title": "5 JPMorgan execs talk about their climb to managing director",
+            "description": "Five of JPMorgan's new managing directors talk about their work habits, their advice to young people, and where they were when they made MD.",
+            "url": "https://www.businessinsider.com/jpmorgan-chase-managing-directors-profiles-career-advice-cib-leaders-2025-4",
+            "urlToImage": "https://i.insider.com/68122cc8a466d2b74ab48f5c?width=998&format=jpeg",
+            "publishedAt": "2025-04-30T14:14:40Z",
+            "content": "Three of JPMorgan Chase's newest managing directors. From left: Mei Chang, Shakir Iqbal, Richuria PatelCourtesy of JPMorgan Chase\r\n<ul><li>JPMorgan elevated 227 new managing directors in its commerci… [+12780 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Harvard Business Review"
+            },
+            "author": null,
+            "title": "How Do I Define My Personal Brand at Work?",
+            "description": "A seasoned professional explores how to align his personal brand with executive leadership.",
+            "url": "https://hbr.org/podcast/2025/04/how-do-i-define-my-personal-brand-at-work",
+            "urlToImage": "https://hbr.org/resources/images/article_assets/2024/11/wide-coaching-real-leaders-24.png",
+            "publishedAt": "2025-04-21T13:02:00Z",
+            "content": "MURIEL WILKINS: I am Muriel Wilkins, and this is Coaching Real Leaders, part of the HBR Podcast Network. I’m a long-time executive coach who works with highly successful leaders who’ve hit a bump in … [+42888 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Dean Takahashi",
+            "title": "IXI raises $36.5M for world’s first autofocus glasses",
+            "description": "IXI has raised $36.5 million in funding to launch the world’s first autofocus glasses which can correct vision dynamically.",
+            "url": "https://venturebeat.com/games/ixi-raises-36-5m-for-worlds-first-autofocus-glasses/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/04/ixi.jpg?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-04-29T10:00:00Z",
+            "content": "IXI has raised $36.5 million in funding to launch the worlds first autofocus glasses which can correct vision dynamically.\r\nIXEI is an Espoo, Finland-based startup with back from Amazon and others. I… [+3728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Dean Takahashi",
+            "title": "Innovative Eyewear launches Reebok Smart Eyewear",
+            "description": "Innovative Eyewear, a developer of smart eyewear, has launched Reebok Smart Eyewear as the latest set of smart glasses to hit the market.",
+            "url": "https://venturebeat.com/games/innovative-eyewear-launches-reebok-smart-eyewear/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/04/reebok_4c176c.jpg?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-04-28T12:30:00Z",
+            "content": "Innovative Eyewear, a developer of smart eyewear, has launched Reebok Smart Eyewear as the latest set of smart glasses to hit the market.\r\nInnovative Eyewear makes smart glasses under the eyewear und… [+4045 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Dean Takahashi",
+            "title": "Global Gaming League raises $10M round for celebrity-endorsed gaming tournaments",
+            "description": "The Global Gaming League (GGL), a gaming and media company, has raised $10 million for matches with celebrity-owned teams.",
+            "url": "https://venturebeat.com/business/global-gaming-league-raises-10m-round-for-celebrity-endorsed-gaming-tournaments/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/04/GGL_VentureBeatCrop-1.jpg?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-04-08T13:30:00Z",
+            "content": "The Global Gaming League (GGL), a global gaming entertainment and media company, has raised $10 million to kick off its gaming battles among celebrity-owned teams. \r\nGGL was founded by Grammy-nominat… [+12601 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Quelian Sanz",
+            "title": "Xiaomi acaba de lanzar 5 productos de Harry Potter que van a ser tu nuevo capricho (quieres todos)",
+            "description": "Como bien anuncia el título, si eres fan de Harry Potter tienes varios nuevos productos favoritos. Xiaomi ha aprovechado el lanzamiento de su nuevo smartphone para volver a colaborar con el mundo mágico y poner a la venta varios gadgets con una estética 100% …",
+            "url": "http://hipertextual.com/2025/04/xiaomi-acaba-de-lanzar-5-productos-de-harry-potter-que-van-a-ser-tu-nuevo-capricho-quieres-todos",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2025/04/xiaomi-harry-potter-5.jpg",
+            "publishedAt": "2025-04-24T10:13:44Z",
+            "content": "Como bien anuncia el título, si eres fan de Harry Potter tienes varios nuevos productos favoritos. Xiaomi ha aprovechado el lanzamiento de su nuevo smartphone para volver a colaborar con el mundo mág… [+4413 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "Dutch neobank Bunq accelerates US expansion plan after second year of profitability",
+            "description": "Dutch neobank Bunq, Europe’s second-largest digital bank, is gearing up to expand across the Atlantic. The fintech company has filed for a broker-dealer licence with US regulators, completing the first phase of its two-step expansion strategy. The licence wil…",
+            "url": "https://thenextweb.com/news/dutch-neobank-bunq-advances-us-expansion",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F12%2F448077-Ali_BU21-6836b8-original-1666105179-e1702991112445.jpeg&signature=adb16339da121684ccf05d4980e23232",
+            "publishedAt": "2025-04-15T15:42:21Z",
+            "content": "Dutch neobank Bunq, Europes second-largest digital bank, is gearing up to expand across the Atlantic. The fintech company has filed for a broker-dealer licence with US regulators, completing the firs… [+1971 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Diddy Reportedly Forced To Use Humiliating Item As Currency In Prison As Rapper's New Lifestyle Is Revealed",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8720e3b7-fda0-4aca-ab4e-c84585d85703",
+            "urlToImage": null,
+            "publishedAt": "2025-04-14T01:15:06Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Sara Belcher",
+            "title": "'The money came so fast': What an NBA All-Star learned after going from millions to bankruptcy",
+            "description": "Three-time NBA All-Star Antoine Walker shared on Yahoo Finance's Financial Freestyle the lessons that would've prevented him from filing for bankruptcy.",
+            "url": "https://finance.yahoo.com/news/the-money-came-so-fast-what-an-nba-all-star-learned-after-going-from-millions-to-bankruptcy-215432482.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wMKN2Ft4dRE.FlY6Di7caw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDgx/https://s.yimg.com/os/creatr-uploaded-images/2025-04/66650950-1eca-11f0-b79f-fdb6d4f41606",
+            "publishedAt": "2025-04-21T21:54:32Z",
+            "content": "Listen and subscribe to Financial Freestyle on Apple Podcasts, Spotify, or wherever you find your favorite podcasts.\r\nAs a three-time NBA All-Star and former NBA Champion, Antoine Walker is one of th… [+3645 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newsnationnow.com"
+            },
+            "author": "Taylor Delandro",
+            "title": "Eating poultry regularly linked to higher mortality risk, study suggests",
+            "description": "Researchers have linked eating more than 300 grams of chicken per week to elevated mortality risk.",
+            "url": "https://www.newsnationnow.com/health/poultry-chicken-higher-mortality-risk-study/",
+            "urlToImage": "https://media.zenfs.com/en/newsnation_articles_600/6084d00b9f9d266a6e89f557d75865be",
+            "publishedAt": "2025-04-28T13:40:49Z",
+            "content": "(NewsNation) Poultry consumption has been linked to some cancers and elevated mortality risk, according to a new study published in the journal Nutrients.\r\nResearchers at the National Institute of Ga… [+2385 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Prevention.com"
+            },
+            "author": "Shannen Zitz",
+            "title": "At 68, Denise Austin Shares 3 ‘Easy’ Moves to Tone ‘Waistline’",
+            "description": "Denise Austin, 68, shared a three-move “easy” workout on Instagram to tone the abs and target the “waistline.” Here’s how to do the exercises.",
+            "url": "https://www.prevention.com/fitness/workouts/a64431118/denise-austin-standing-ab-moves-tone-waistline-instagram-video/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZVgF9czk7s3FOBhRc1fjIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/hearst_prevention_66/2ce8a23b48d56da920a3085969c86cd5",
+            "publishedAt": "2025-04-14T12:30:00Z",
+            "content": "<ul><li>Denise Austin shared a workout video targeting the abs on Instagram.\r\n</li><li>The fitness pro demonstrated three easy standing moves.\r\n</li><li>You can do these moves anywhere and at any tim… [+2243 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Prevention.com"
+            },
+            "author": "Shannen Zitz",
+            "title": "A Cardiologist Says This Is the Worst Food for Heart Health",
+            "description": "Your diet plays a key role in maintaining overall heart health. Processed meats, doctors say, may be doing more harm than good.",
+            "url": "https://www.prevention.com/food-nutrition/healthy-eating/a64555232/effects-of-processed-meats-heart-health/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oqcBEcufP_Gb4TUgODg54g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/hearst_prevention_66/a20b7113fb2322fa31862a79528a0dae",
+            "publishedAt": "2025-04-27T13:30:00Z",
+            "content": "If youre looking to improve your overall wellness, incorporating heart-healthy foods into your diet is a must. But several unexpected bites you might regularly consume could be sabotaging your effort… [+1928 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Adrian Volenik",
+            "title": "After 19 Years Of Payments, A Man Asks Dave Ramsey About His Student Loan Forgiveness. At $90K A Year, Ramsey Doesn't Go Easy On Him",
+            "description": "A recent caller to “The Ramsey Show” revealed he's been making student loan payments for 19 years and still owes $20,000. Now 49, he asked Dave Ramsey about ...",
+            "url": "https://finance.yahoo.com/news/19-years-payments-man-asks-010108177.html",
+            "urlToImage": "https://media.zenfs.com/en/Benzinga/dc3f0cee9253bd56d28c3d8ae53902f8",
+            "publishedAt": "2025-04-22T01:01:08Z",
+            "content": "A recent caller to The Ramsey Show revealed he's been making student loan payments for 19 years and still owes $20,000. Now 49, he asked Dave Ramsey about student loan forgiveness programs that kick … [+2961 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Chris Stoodley",
+            "title": "What are the worst ultra-processed foods? What to know as clusters of additives linked to type 2 diabetes, new study finds",
+            "description": "New research finds two clusters of additives are linked to a risk of type 2 diabetes, following a recent study warning nearly half of heart disease and...",
+            "url": "https://ca.style.yahoo.com/what-are-the-worst-ultra-processed-foods-what-to-know-as-clusters-of-additives-linked-to-type-2-diabetes-new-study-finds-174029857.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LHCJHXo4DHs5a9a8Vl1Tkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/0cf3b1f0-155b-11f0-aa3c-4aeaea9640a5",
+            "publishedAt": "2025-04-09T17:40:29Z",
+            "content": "This article is for informational purposes only and is not a substitute for professional medical advice, diagnosis or treatment. Contact a qualified medical professional before engaging in any physic… [+9225 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Gabrielle Olya",
+            "title": "The ‘Magic Number’ Americans Say You Need To Retire in 2025 Is Less Than Last Year",
+            "description": "For a long time, $1 million was considered the \"magic number\" for your retirement nest egg, but as costs have increased, that number has too. However, the...",
+            "url": "https://finance.yahoo.com/news/magic-number-americans-retire-2025-130108105.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bkoLZO3XGGq9E6FrBELXWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/c5ab01a40fcc972a50fdbbe47f933775",
+            "publishedAt": "2025-04-25T13:01:08Z",
+            "content": "For a long time, $1 million was considered the magic number for your retirement nest egg, but as costs have increased, that number has too. However, the average American now believes they need less m… [+4393 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sandee LaMotte, CNN",
+            "title": "Every bite of ultraprocessed food will increase your chance of an early death, major new study says",
+            "description": "Eating just 10% more ultraprocessed food ups your risk of premature death from any cause by nearly 3%, a new study says.",
+            "url": "https://www.cnn.com/2025/04/28/health/ultraprocessed-food-death-wellness",
+            "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/054e068969594c96139b36d4fda59f26",
+            "publishedAt": "2025-04-28T13:15:16Z",
+            "content": "Sign up for CNNs Eat, But Better: Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life.\r\nAs you add more ultraprocessed … [+6381 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eatingwell.com"
+            },
+            "author": "Devineé Lingo, M.S., RDN",
+            "title": "6 \"Bad\" Foods You Should Be Eating to Decrease Your Stroke Risk, According to Dietitians",
+            "description": "Despite getting a bad rap, these foods are packed with beneficial nutrients to support cardiovascular health.",
+            "url": "https://www.eatingwell.com/bad-foods-to-eat-for-lower-stroke-risk-11722148",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cSbQBHjbILrDQ8dcBLKkFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTA-/https://media.zenfs.com/en/eating_well_articles_946/44195b83c917a07a7171f17eeea9c6fb",
+            "publishedAt": "2025-04-27T15:54:49Z",
+            "content": "Reviewed by Dietitian Kelli McGrane, M.S., RD\r\nGetty Images. EatingWell design.\r\n\"Key Takeaways\"\r\n<ul><li>Some foods have faced undeserved skepticism when it comes to vascular and overall health.\r\n</… [+7535 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Elizabeth Di Filippo",
+            "title": "Why don't more Canadians know about stomach cancer? What woman who lost 80% of her stomach wants you to know about the 'orphaned' cancer",
+            "description": "Teresa Tiano was diagnosed with stomach cancer in 2011. Now she's helping others Canadians with \"the orphan cancer.\"",
+            "url": "https://ca.style.yahoo.com/why-dont-more-canadians-know-about-stomach-cancer-what-woman-who-lost-80-of-her-stomach-wants-you-to-know-about-the-orphaned-cancer-175111904.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zWzk3k6_rrVcx6fmlt.3AA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/0e322cc0-da67-11ee-bd7b-3004c0cc96b3",
+            "publishedAt": "2025-04-15T17:51:11Z",
+            "content": "By the time she was 44, Teresa Tiano was already intimately familiar with cancer. Not only was she treated for stage 0 bladder cancer eight years earlier, but she had also lost both parents to cancer… [+9628 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wichita Eagle"
+            },
+            "author": "Michael Stavola",
+            "title": "‘Doing something for the Lord’: Wichita man who built hundreds of churches dies",
+            "description": "He built the first one when he was 22.",
+            "url": "https://www.kansas.com/news/local/news-local-obituaries/article303447371.html",
+            "urlToImage": "https://media.zenfs.com/en/wichita_eagle_mcclatchy_articles_373/6f19094cfa4f21be1b1ff387e1dcd1f3",
+            "publishedAt": "2025-04-04T18:30:43Z",
+            "content": "The first church Ronald Roe Messner built was the Douglas Avenue Assembly of God in Wichita.\r\nHe was around 22 when he finished it with a company he started when he was 17. His mother had to sign the… [+13053 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Chantelle Lee",
+            "title": "Can Eating Certain Foods Really Help You Get Pregnant?",
+            "description": "TikTok is full of content creators claiming that eating certain foods helped them get pregnant. But how truthful is that claim?",
+            "url": "https://time.com/7276224/does-fertility-diet-pcos-work/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2025/04/Fertility-Diet-Trend.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2025-04-10T14:27:18Z",
+            "content": "TikTok is full of content creators claiming that eating certain foods helped them get pregnantparticularly those with polycystic ovary syndrome (PCOS), a hormone disorder that can affect fertility an… [+5623 chars]"
+        }
+    ]
+}

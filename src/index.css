@@ -1,0 +1,166 @@
+
+.navbar {
+  background-color: #ffffff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.Menu-icon, .Search-icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.news-icon {
+  width: 45px;
+  height: 45px;
+}
+
+.category-section {
+  background-color: #f1f3f5;
+  padding: 20px 0;
+  border-top: 1px solid #e0e0e0;
+}
+
+.category-item {
+  font-size: 1rem;
+  margin: 5px 15px;
+  color: #555;
+  font-weight: 500;
+  cursor: pointer;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.category-item:hover {
+  color: #007bff;
+  transform: translateY(-5px);
+}
+
+.text-center h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0;
+  color: #333;
+}
+
+.text-center small {
+  font-size: 1rem;
+  color: #777;
+}
+
+@media (max-width: 768px) {
+  .category-item {
+    font-size: 0.9rem;
+    margin: 5px;
+  }
+
+  .navbar .container-fluid {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .category-section {
+    padding: 10px;
+  }
+}
+/* Картинка новости */
+.card-img-top {
+  height: 250px;
+  object-fit: cover;
+  border-radius: 10px 10px 0 0;
+}
+
+/* Современный стиль карточки */
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+
+.card-title {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: #333;
+}
+
+/* Стиль для sidebar */
+.card-body {
+  padding: 20px;
+}
+
+.card-body h4 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #444;
+}
+
+.card-body ul {
+  padding-left: 20px;
+}
+
+.card-body ul li {
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  border-radius: 25px;
+  padding: 10px 20px;
+}
+
+/* Респонсивность */
+@media (max-width: 768px) {
+  .card-img-top {
+    height: 200px;
+  }
+
+  .card-body {
+    padding: 15px;
+  }
+
+  .card-title {
+    font-size: 1.5rem;
+  }
+}
+footer {
+  background-color: #343a40; /* Dark background */
+}
+
+footer img {
+  max-width: 120px; /* Smaller logo */
+}
+
+footer .text-white {
+  color: #fff !important;
+}
+
+footer a:hover {
+  color: #007bff; /* Blue color on hover for links */
+}
+/* Custom styles for news cards */
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.card-body {
+  padding: 15px;
+}
+
+.btn-primary {
+  border-radius: 25px;
+}

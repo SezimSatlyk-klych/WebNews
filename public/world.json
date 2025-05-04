@@ -1,0 +1,760 @@
+{
+    "status": "ok",
+    "totalResults": 121052,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Kylie Robison",
+            "title": "Welcome to Sam Altman’s Orb Store",
+            "description": "World opened the doors to its new San Francisco storefront with eight brand-new orbs ready for eyeballs to scan.",
+            "url": "https://www.wired.com/story/sam-altman-orb-store-san-francisco/",
+            "urlToImage": "https://media.wired.com/photos/6813d96f9b3c9f36f7bb0565/191:100/w_1280,c_limit/Worldcoin-Orb-SF-Store-Business-6.jpg",
+            "publishedAt": "2025-05-02T17:52:39Z",
+            "content": "At the storefront event, a man waiting outside told me hed booked an appointment for 11:30, but noted he was an hour early, and wasn't allowed to come inside yet. He was visiting from Poland, and sai… [+1632 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Dhruv Mehrotra, Andrew Couts",
+            "title": "NSA Chief Ousted Amid Trump Loyalty Firing Spree",
+            "description": "Plus: Another DOGE operative allegedly has a history in the hacking world, and Donald Trump’s national security adviser apparently had way more Signal chats than previously known.",
+            "url": "https://www.wired.com/story/security-news-this-week-nsa-chief-ousted-amid-trump-loyalty-bloodbath/",
+            "urlToImage": "https://media.wired.com/photos/67f01f18b1280fc9d999c1d6/191:100/w_1280,c_limit/Security-Roundup-timothy-Haugh-Security-2078845669.jpg",
+            "publishedAt": "2025-04-05T10:30:00Z",
+            "content": "Speaking aboard Air Force One on Thursday, Trump confirmed the NSC dismissals and acknowledged Loomers role in advising him. She makes recommendations and sometimes I listen to those recommendations … [+2989 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lauren Goode, Kylie Robison",
+            "title": "Sam Altman's Eye-Scanning Orb Is Now Coming to the US",
+            "description": "At a high-profile event in San Francisco, World announced it is launching a series of Apple-like stores, as well as a partnership with dating giant Match Group.",
+            "url": "https://www.wired.com/story/sam-altman-orb-eyeball-scan-launch-us/",
+            "urlToImage": "https://media.wired.com/photos/68128fbb8756b2b4fe46373f/191:100/w_1280,c_limit/OpenAI-Orb-Sam-Altman-Business-2198164474.jpg",
+            "publishedAt": "2025-05-01T02:24:31Z",
+            "content": "Sam Altmans iris-scanning, identify-verification technology startup is expanding to the US, and will attempt to bridge the divide between blockchain-based financial networks and the payment services … [+2383 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Tim Barber, Jeremy White",
+            "title": "The 11 Most WIRED Watches That Dropped at Watches & Wonders 2025",
+            "description": "A completely new Rolex, the most complicated wristwatch ever made, pieces that survive impacts of 10,000 g’s, and “magic ceramic”—the annual gathering of the watch world delivered big-time in 2025.",
+            "url": "https://www.wired.com/story/the-11-most-wired-watches-that-dropped-at-watches-and-wonders-2025/",
+            "urlToImage": "https://media.wired.com/photos/67f021ac4eabd2eca9cea51f/191:100/w_1280,c_limit/gear_watches.jpg",
+            "publishedAt": "2025-04-05T10:00:00Z",
+            "content": "President Donald Trumps tariffs bombshell this week (complete with a levy seemingly aimed at a few thousand penguins on remote Antarctic islands) landed right in the middle of Watches &amp; Wonders, … [+10181 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Laura Mallonee",
+            "title": "One Man’s Quest to Reforest the Rio Grande Valley",
+            "description": "The Tamaulipan thorn forest once covered 1 million acres on both sides of the US-Mexico border. Restoring even a fraction of it could help the region cope with the ravages of a warming world.",
+            "url": "https://www.wired.com/story/the-rio-grande-valley-was-once-covered-in-forest-one-man-is-trying-to-bring-it-back/",
+            "urlToImage": "https://media.wired.com/photos/67f90a6de8c38801d15665d0/191:100/w_1280,c_limit/GettyImages-987822716.jpg",
+            "publishedAt": "2025-04-12T06:00:00Z",
+            "content": "Despite this, Dale says any restoration, no matter how small, is worth the investment. The nursery is currently growing 4,000 seedlings for four more community plots, each an acre or two in size. Sma… [+3216 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jorge Garay",
+            "title": "The Tech That Safeguards the Conclave’s Secrecy",
+            "description": "Following the death of Pope Francis, the Vatican is preparing to organize a new conclave in less than 20 days. This is how they’ll tamp down on leaks.",
+            "url": "https://www.wired.com/story/technology-used-to-shield-conclave-pope-francis/",
+            "urlToImage": "https://media.wired.com/photos/6807a32fd9e964025d33ff7c/191:100/w_1280,c_limit/GettyImages-163555711.jpg",
+            "publishedAt": "2025-04-23T06:00:00Z",
+            "content": "In 2005, cell phones were banned for the first time during the conclave, the process by which the Catholic Church elects its new pope. Twenty years later, after the death of Pope Francis, the electio… [+3441 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave",
+            "title": "Inside the Battle Over OpenAI’s Corporate Restructuring",
+            "description": "A group of activists is turning to an old playbook to influence the future of one of the world’s most powerful AI companies.",
+            "url": "https://www.wired.com/story/open-ai-nonprofit-transition-activism/",
+            "urlToImage": "https://media.wired.com/photos/680fc9cf79a3b59ab5a0a5f9/191:100/w_1280,c_limit/Activists-OpenAI-Fleecing-Taxpayers-Business-2198379531.jpg",
+            "publishedAt": "2025-05-02T09:00:00Z",
+            "content": "Late last year, Bell, Blackwell, and Aguilar decided to dust off the old playbook. They commissioned a legal memo that reiterated the power of the attorney general over the irrevocable status of char… [+4062 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Scott Gilbertson",
+            "title": "The Best Backpacking Water Filters of 2025, Tested and Reviewed",
+            "description": "We’ve tested filter from Sawyer, Katadyn, LifeStraw, MSR and more to find the best option for every adventure.",
+            "url": "https://www.wired.com/gallery/best-backpacking-water-filters/",
+            "urlToImage": "https://media.wired.com/photos/67f9aa8febc33267d7b52211/191:100/w_2580,c_limit/Best-Water-Filters_042025_Lede.jpg",
+            "publishedAt": "2025-04-13T12:02:00Z",
+            "content": "A favorite of ultralight hikers, backpackers, bikers, and travelers, the Sawyer Squeeze filter is the gold standard in water filters for anyone concerned about weight and universal compatibility. The… [+2342 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Boone Ashworth",
+            "title": "US Tariffs Could Make Smartphones Dumber",
+            "description": "Donald Trump’s tariffs are likely to make tech manufacturers more risk averse—which could stymie innovation in favor of keeping costs down.",
+            "url": "https://www.wired.com/story/us-tariffs-could-make-smartphones-dumber/",
+            "urlToImage": "https://media.wired.com/photos/67f85c41cc20a27fa1643bf2/191:100/w_1280,c_limit/tariffs-smartphones-dumber-gear-2208839416.jpg",
+            "publishedAt": "2025-04-11T16:01:04Z",
+            "content": "Tariffs, another chaotic venture of the barely four-month-old Trump administration, are set to rollick every sector of the economy and nearly all the goods and services people use across the world. B… [+2761 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Angela Watercutter",
+            "title": "What ‘The Last of Us’ Season Premiere’s Final Moments Really Mean",
+            "description": "During the second-season premiere of “The Last of Us,” Ellie gets called a homophobic slur. Craig Mazin tells WIRED it highlights what happens when humanity stops moving forward.",
+            "url": "https://www.wired.com/story/last-of-us-season-2-premiere/",
+            "urlToImage": "https://media.wired.com/photos/67eb0ab0eb7daf243ebce661/191:100/w_1280,c_limit/Last-Of-Us-Queer-Lives-Culture-isabela-merced-bella-ramsey_0.jpg",
+            "publishedAt": "2025-04-14T02:00:00Z",
+            "content": "These tensions emerge in season 2 in Jackson, Wyoming, where dozens of survivors of the Cordyceps plague have built a somewhat safe and stable existence. Joels brother Tommy (Gabriel Luna) and his wi… [+3036 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Ryan Broderick",
+            "title": "4chan Is Dead. Its Toxic Legacy Is Everywhere",
+            "description": "It's likely that there will never be a site like 4chan again. But everything now—from X and YouTube to global politics—seems to carry its toxic legacy.",
+            "url": "https://www.wired.com/story/4chan-is-dead-its-toxic-legacy-is-everywhere/",
+            "urlToImage": "https://media.wired.com/photos/68013f3c96c7b630c4e15444/191:100/w_1280,c_limit/4Chan-Legacy-Culture-1814351886.jpg",
+            "publishedAt": "2025-04-22T14:40:20Z",
+            "content": "Many of the 4chan users that called me mid-Battletoad attack left messages. I listened to all of them. A pattern quickly emerged: young men, clearly nervous to even leave a message, trying to harass … [+3086 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Ben Dowsett",
+            "title": "This Massive Screen for Live Sports Puts You in the Best Seat in the Stadium",
+            "description": "Cosm's cushy venues provide a fully immersive experience that helps sports fans feel like they're really at the game—with all the thrills, the shouting, and even the hot dogs.",
+            "url": "https://www.wired.com/story/cosm-live-sports-immersive-experiences/",
+            "urlToImage": "https://media.wired.com/photos/67fe724b033cbe21c61cf0cd/191:100/w_1280,c_limit/TX%20V.%20MI.jpg",
+            "publishedAt": "2025-04-21T10:00:00Z",
+            "content": "On the sports side, both the NBA (Cosms first league partner) and NHL experiences are amazing. Cosm can put you courtside for NBA games, both at center court and on either baseline. The NHL program f… [+2416 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Louryn Strampe",
+            "title": "How to Sleep in an Airport (2025): Gear and Expert Advice",
+            "description": "These tips and recommendations can help you get some shut-eye before you fly.",
+            "url": "https://www.wired.com/story/how-to-sleep-in-an-airport/",
+            "urlToImage": "https://media.wired.com/photos/680173557e0c285c846a3914/191:100/w_1280,c_limit/How-to-Sleep-in-An-Airport_042025_Lede.jpg",
+            "publishedAt": "2025-04-18T12:06:00Z",
+            "content": "So youve got a long layover. Or you tried Airport Theory and missed your flight. Or your plane was delayed. Or you spent all night packing because you procrastinated until the last minute and now you… [+2872 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Chris Baraniuk",
+            "title": "The Climate Crisis Threatens Supply Chains. Manufacturers Hope AI Can Help",
+            "description": "The Covid-19 pandemic showed just how vulnerable global supply chains are. Climate shocks could pose an even greater risk.",
+            "url": "https://www.wired.com/story/manufacturers-hope-ai-will-save-supply-chains-from-climate-crisis/",
+            "urlToImage": "https://media.wired.com/photos/67bde52c1171429c58ee8b3f/191:100/w_1280,c_limit/022425_Climate-Crisis-Supply-Chain.jpg",
+            "publishedAt": "2025-05-02T10:00:00Z",
+            "content": "Abhi Ghadge, associate professor of supply chain management at Cranfield University in the UK, says there has been a general kind of negligence in terms of climate resilience, though that is beginnin… [+3005 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Will Knight",
+            "title": "The AI Race Has Gotten Crowded—and China Is Closing In on the US",
+            "description": "New research from Stanford suggests artificial intelligence isn’t ruled by just OpenAI and Google, as competition increases across the US, China, and France.",
+            "url": "https://www.wired.com/story/stanford-study-global-artificial-intelligence-index/",
+            "urlToImage": "https://media.wired.com/photos/67f06761c622bae99bb284bc/191:100/w_1280,c_limit/business_ai_race_us_china.jpg",
+            "publishedAt": "2025-04-07T10:00:00Z",
+            "content": "Stanfords report shows Chinese AI is on the rise overall, with models from Chinese companies scoring similar to their US counterparts on the LMSYS benchmark. It notes that China publishes more AI pap… [+3227 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Reece Rogers",
+            "title": "How to Use Instagram Edits, Meta’s New CapCut Clone for Editing Videos",
+            "description": "Instagram’s long-promised video-editing app is out now. Here’s how to use Edits to make Reels, and how the software differs from TikTok’s CapCut.",
+            "url": "https://www.wired.com/story/how-to-use-instagram-edits-capcut-clone/",
+            "urlToImage": "https://media.wired.com/photos/6809531af0d9ff7ab518fc92/191:100/w_1280,c_limit/Instagram-Edits-Gear-Edits-logo-still.jpg",
+            "publishedAt": "2025-04-24T11:00:00Z",
+            "content": "In January, Meta announced its stand-alone video editing app for making Reels, simply called Edits. After release delays, users anywhere in the world can now download the app and try it out.\r\nThe new… [+5164 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Gabriel Nicholas",
+            "title": "The Subjective Charms of Objective-C",
+            "description": "The verbose programming language felt like a universal form of communication—until it didn't.",
+            "url": "https://www.wired.com/story/objective-c-programming-language-verbose/",
+            "urlToImage": "https://media.wired.com/photos/67f41dca948b52c3f1ec3f72/191:100/w_1280,c_limit/Objective-C-Coding-Business-1494177588.jpg",
+            "publishedAt": "2025-04-14T15:19:38Z",
+            "content": "Objective-Cs objects, meanwhile, were adorned with all caps prefixes that proudly identified their creator. Some bore household names, like the button to log into another service with yourTwitter acc… [+4160 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Martin Reeves, Bob Goodson",
+            "title": "AI Is Using Your Likes to Get Inside Your Head",
+            "description": "Liking features on social media can provide troves of data about human behavior to AI models. But as AI gets smarter, will it be able to know users’ preferences before they do?",
+            "url": "https://www.wired.com/story/like-the-button-that-changed-the-world-book-excerpt/",
+            "urlToImage": "https://media.wired.com/photos/680fdc3bd07d17f543fc050d/191:100/w_1280,c_limit/Book-Excerpt-AI-LEarn-from-Likes-Culture.jpg",
+            "publishedAt": "2025-04-29T11:00:00Z",
+            "content": "What is the future of the like button in the age of artificial intelligence? Max Levchinthe PayPal cofounder and Affirm CEOsees a new and hugely valuable role for liking data to train AI to arrive at… [+3957 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Julian Chokkattu",
+            "title": "Verizon’s Price Lock, a New Rolex, and Withings’ Blood Pressure Tech—Your Gear News of the Week",
+            "description": "Plus: Samsung debuts its Galaxy Tab S10 FE tablets, Ooni has bigger gas-powered pizza ovens, and Traeger solves a griddle riddle.",
+            "url": "https://www.wired.com/story/verizons-price-lock-a-new-rolex-and-withings-blood-pressure-tech-your-gear-news-of-the-week/",
+            "urlToImage": "https://media.wired.com/photos/67f05b78883a6e6c8355c740/191:100/w_1280,c_limit/Your-Gear-News-of-the-Week_042025_Lede.jpg",
+            "publishedAt": "2025-04-05T10:00:00Z",
+            "content": "US carriers often shake up their mobile plans and offers to entice customers to switch and upgrade. Verizon's latest big idea? A three-year price lock. New and existing subscribers can lock in their … [+4418 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Molly Higgins",
+            "title": "The Best Cat Toys for Your Furry Friend (2025)",
+            "description": "Based on years of testing with our cats, these are our favorite WIRED-approved, tech-y cat toys and scratchers.",
+            "url": "https://www.wired.com/story/best-cat-toys/",
+            "urlToImage": "https://media.wired.com/photos/67eef74bea54cfc0699557bc/191:100/w_1280,c_limit/Favorite%20Cat%20Toys%20Reviewer%20Collage%2004032025.jpg",
+            "publishedAt": "2025-04-11T12:39:00Z",
+            "content": "Cats are beautiful, interesting, weird creatures. They're also very picky. Finding toys that they'll actually play with is toughespecially with the sheer oversaturation of the pet market today. Cats … [+11333 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Elizabeth Lopatto",
+            "title": "We just declared a trade war with the world",
+            "description": "Nice economy you have there, said President Donald Trumpâs administration. It would be a shame if something happened to it. The something, announced earlier this week, is a set of globally applied tariffs that make no sense on their face. No sane economist …",
+            "url": "https://www.theverge.com/business/643970/trade-war-consequences-crazy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257680_trade_war_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-04T22:34:17Z",
+            "content": "We just declared a trade war with the world\r\nEnjoy your tax hikes, I guess!\r\nWe just declared a trade war with the world\r\nEnjoy your tax hikes, I guess!\r\nNice economy you have there, said President D… [+11490 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft brings Copilot Vision to Windows and mobile for AI help in the real world",
+            "description": "Microsoft is bringing its Copilot Vision feature to Windows and mobile, moving it beyond the web. Copilot Vision was a big part of Microsoft’s Copilot redesign last year, but so far, it has been limited to Edge webpages to help guide you through what you’re s…",
+            "url": "https://www.theverge.com/news/643235/microsoft-copilot-vision-windows-desktop-apps-mobile",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/microsoft-copilot-vision-on-windows.png?quality=90&strip=all&crop=0%2C3.4855536164437%2C100%2C93.028892767113&w=1200",
+            "publishedAt": "2025-04-04T12:36:16Z",
+            "content": "Copilot Vision on Windows will be able to see your screen and guide you through apps.\r\nCopilot Vision on Windows will be able to see your screen and guide you through apps.\r\nMicrosoft is bringing its… [+1452 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Allison Johnson",
+            "title": "How an unused nuclear power plant became home to a world-class acoustics lab",
+            "description": "Itâs kind of impossible to grasp the enormity of a cooling tower until itâs suddenly right next to you. Never used for their intended purpose, the cooling towers of Washington Nuclear Projects 3 and 5 (WNP-3 and WNP-5) loom over treetops as I drive up to …",
+            "url": "https://www.theverge.com/tech/644385/nuclear-power-plant-acoustics-lab",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257642_Acoustic_company_nuclear_AJohnson_0017-2.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
+            "publishedAt": "2025-04-08T14:06:33Z",
+            "content": "How an unused nuclear power plant became home to a world-class acoustics lab\r\nThese scientists have taken extreme measures to get away from noise.\r\nHow an unused nuclear power plant became home to a … [+11672 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Thomas Ricker",
+            "title": "Kuxiu’s ‘world first’ solid-state power bank costs a little more but lasts much longer",
+            "description": "Solid-state batteries are the future. They're more powerful, compact, safe, and sustainable than Lithium-ion alternatives, but true all-solid state batteries can't be mass-produced cost-effectively. That's why Kuxiu has gone semi-solid state for what it calls…",
+            "url": "https://www.theverge.com/reviews/656183/kuxius-semi-solid-state-power-bank-costs-a-little-more-but-lasts-much-longer",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/IMG20250425103917.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+            "publishedAt": "2025-04-26T10:04:11Z",
+            "content": "The S2 costs up to 60 percent more, but its safer and can be cycled 1,000 times before battery life starts degrading.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our… [+6897 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "Tron: Ares blends the real world with the digital in its first trailer",
+            "description": "Disney just released the first trailer for Tron: Ares, the long-planned Tron: Legacy sequel. The minute-and-a-half trailer doesn’t say much about the story but shows plenty of the movie’s visuals, which look dark, moody, and filled with the series’ signature …",
+            "url": "https://www.theverge.com/news/644047/tron-ares-first-trailer-poster-jared-leto-jeff-bridges",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Tron-Poster.png?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+            "publishedAt": "2025-04-05T16:48:13Z",
+            "content": "Tron: Ares imagines a world where AI takes on a physical form.\r\nTron: Ares imagines a world where AI takes on a physical form.\r\nDisney just released the first trailer for Tron: Ares, the long-planned… [+1561 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Victoria Song",
+            "title": "Strava acquires massively popular Runna app",
+            "description": "Go to any run club in the world and thereâs a good chance that everyone there has two things: a Garmin smartwatch to track their run and a Strava account to brag about it. Given the global running boom, it makes Stravaâs lack of any modern, in-app trainin…",
+            "url": "https://www.theverge.com/tech/648075/strava-runna-acquisition-running-fitness-tech",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Strava-Runna-Landscape.png?quality=90&strip=all&crop=0%2C13.753523962948%2C100%2C72.492952074104&w=1200",
+            "publishedAt": "2025-04-16T20:07:53Z",
+            "content": "Nothings changing straight out of the gate, but Strava CEO Michael Martin says This isnt an efficiency play.\r\nNothings changing straight out of the gate, but Strava CEO Michael Martin says This isnt … [+5026 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The humble screenshot might be the key to great AI assistants",
+            "description": "If you want to make the most out of a world increasingly filled with AI tools, hereâs a habit to develop: start taking screenshots. Lots of screenshots. Of anything and everything. Because for all the talk of voice modes, omnipresent cameras, and the multim…",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/650809/screenshots-apps-ai-pixel-nothing",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257701_AI_screenshots_CVirginia-40-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-17T17:02:01Z",
+            "content": "AI is good at understanding information but terrible at knowing what matters. Screenshots could help.\r\nAI is good at understanding information but terrible at knowing what matters. Screenshots could … [+8087 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Bionic Bay mixes floppy physics with hard sci-fi",
+            "description": "Wandering through Bionic Bay's dark alien world is unsettling and awe-inspiring. There are massive structures with no clear purpose and autonomous factories filled with whirring saw blades and devastating lasers. It's grim and unforgiving, with little light a…",
+            "url": "https://www.theverge.com/games-review/656284/bionic-bay-review-ps5-steam",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/ss_217c4063526ee03fb88df54406bc89df7750c580.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-04-25T17:00:44Z",
+            "content": "The new platformer is equal parts atmospheric and demanding.\r\nThe new platformer is equal parts atmospheric and demanding.\r\nWandering through Bionic Bays dark alien world is unsettling and awe-inspir… [+3266 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "Star Wars is so back",
+            "description": "Hi, friends! Welcome to Installer No. 80, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you had better luck than I did preordering a Switch 2, and also you can read all the old editions at the Installer homepage.…",
+            "url": "https://www.theverge.com/installer-newsletter/656510/star-wars-andor-razr-ultra-instagram-edits-installer",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Installer-80.png?quality=90&strip=all&crop=0%2C10.788682187813%2C100%2C78.422635624373&w=1200",
+            "publishedAt": "2025-04-25T18:03:01Z",
+            "content": "Plus, in this weeks Installer: a cool new flip phone, a couple of great new games, Instagram Edits, and much more.\r\nPlus, in this weeks Installer: a cool new flip phone, a couple of great new games, … [+10126 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Is this the antidote to America’s truck bloat problem?",
+            "description": "Last night, a new company called Slate Auto unveiled its first product, a spartan two-seater electric truck with a mere 150 miles of range and a world of possibility. There's no paint, no distracting infotainment screen, and no stereo or even radio. It doesn'…",
+            "url": "https://www.theverge.com/electric-cars/656270/slate-truck-bloat-size-weight-safety-tech",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Blank-Slate-Roller-2_web.jpg?quality=90&strip=all&crop=6.2,15.233054606792,87,68.325674918514",
+            "publishedAt": "2025-04-25T19:18:07Z",
+            "content": "Slate Autos first truck is smaller than average without all the distracting tech inside. Thats refreshing.\r\nSlate Autos first truck is smaller than average without all the distracting tech inside. Th… [+5495 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "HBO’s Harry Potter TV series has cast its regulars (not those ones)",
+            "description": "After weeks of speculation, Warner Bros. Discovery has officially announced the first cast members who will appear in its upcoming Harry Potter TV adaptation. The casting confirmations, focused around some of the most notably adult characters from the Harry P…",
+            "url": "https://www.theverge.com/news/648099/harry-potter-tv-series-hbo-warner-bros-casting-announcement",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/HBO-Harry-Potter-TV-series-cast.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-14T15:51:37Z",
+            "content": "John Lithgow, Paapa Essiedu, Janet McTeer, and Nick Frost are now confirmed to appear in HBOs TV adaptation.\r\nJohn Lithgow, Paapa Essiedu, Janet McTeer, and Nick Frost are now confirmed to appear in … [+2266 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "Over 700 events and protests across the US mark ‘A National Day of Action’",
+            "description": "More protests against President Donald Trump are taking place today as part of “A National Day of Action” largely spearheaded by the decentralized 50501 movement. Events are scheduled in all 50 states, two weeks after millions of people attended more than 1,3…",
+            "url": "https://www.theverge.com/news/652341/nation-day-of-action-50501-protests-50-states",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Handsoff-DC-4.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+            "publishedAt": "2025-04-19T18:00:52Z",
+            "content": "Protesters in Washington, DC on April 5th.\r\n\n\nMore protests against President Donald Trump are taking place today as part of “A National Day of Action” largely spearheaded by the decentralized 50501 … [+3670 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Netflix is getting a Peppa Pig mobile game",
+            "description": "Netflix is adding a Peppa Pig game to its roster of available titles for subscribers in June, the company announced on Monday. World of Peppa Pig will be available alongside new episodes of the popular children’s show in the US. “From spot the difference and …",
+            "url": "https://www.theverge.com/news/644019/netflix-peppa-pig-game",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/unnamed.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-04-07T12:11:30Z",
+            "content": "The game will join Netflixs roster in June.\r\nThe game will join Netflixs roster in June.\r\nNetflix is adding a Peppa Pig game to its roster of available titles for subscribers in June, the company ann… [+804 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "Everybody’s got a favorite new game",
+            "description": "Hi, friends! Welcome to Installer No. 79, your guide to the best and Verge-iest stuff in the world. (If youâre new here, welcome, RIP your free time, and also you can read all the old editions at the Installer homepage.)  This week, Iâve been reading abou…",
+            "url": "https://www.theverge.com/installer-newsletter/652291/blue-prince-great-circle-baldurs-gate-games-installer",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Installer-79.png?quality=90&strip=all&crop=0%2C10.788682187813%2C100%2C78.422635624373&w=1200",
+            "publishedAt": "2025-04-19T19:58:02Z",
+            "content": "Plus, in this weeks Installer: A delightful instant camera, a great game comes to PS5, YouTuber gadgets, and much more.\r\nPlus, in this weeks Installer: A delightful instant camera, a great game comes… [+10923 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Bluesky is having an up and down Tuesday morning",
+            "description": "On Tuesday morning, the social media platform Bluesky experienced back-to-back outages that prevented feeds from loading for many users around the world. An initial outage started at about 6AM ET, as tracked by Downdetector, lasting about 40 minutes, and then…",
+            "url": "https://www.theverge.com/news/657705/bluesky-down-outages-loading-issues",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK133_BLUESKY__B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-29T12:27:51Z",
+            "content": "The platform experienced intermittent outages Tuesday morning.\r\nThe platform experienced intermittent outages Tuesday morning.\r\nOn Tuesday morning, the social media platform Bluesky experienced back-… [+1011 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "CATL’s new EV battery blows BYD’s speediest-charging cells out of the water",
+            "description": "CATL, the world’s largest battery manufacturer, previewed several breakthroughs in electric vehicle battery tech that is sure to wow EV makers across the world — even if the tech never makes it to the US. The company teased the innovations at an event in Shan…",
+            "url": "https://www.theverge.com/news/652762/catl-china-ev-battery-charging-sodium-ev-range",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/gettyimages-2210714319.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+            "publishedAt": "2025-04-21T19:13:39Z",
+            "content": "Robin Zeng, founder and chairman of CATL, on stage during the company’s Tech Day event in Shanghai, China, on Monday, April 21, 2025.\r\n\n\nCATL, the world’s largest battery manufacturer, previewed seve… [+2733 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "Galactus hungers in Fantastic Four: First Steps’ new trailer",
+            "description": "In Marvel’s Fantastic Four: First Steps, everyone sees Reed Richards and his family as heroes capable of protecting the planet from any threat. But the film’s latest trailer makes it seem like the team’s first big villain might be a little more than they can …",
+            "url": "https://www.theverge.com/news/643579/fantastic-four-first-steps-trailer-silver-surfer",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Screenshot-2025-04-17-at-10.58.02%E2%80%AFAM.png?quality=90&strip=all&crop=10.49651810585%2C0%2C79.006963788301%2C100&w=1200",
+            "publishedAt": "2025-04-17T15:03:02Z",
+            "content": "The latest trailer for Marvels new Fantastic Four film introduces Julia Garners Silver Surfer.\r\nThe latest trailer for Marvels new Fantastic Four film introduces Julia Garners Silver Surfer.\r\nIn Marv… [+1830 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Roblox is letting creators fine-tune their prices by country",
+            "description": "Roblox is rolling out a new feature that will let creators on the platform choose to offer in-game items at region-specific prices. This means that an item’s specific price will vary to reflect a user’s local region so that it’s equivalent around the world. R…",
+            "url": "https://www.theverge.com/news/651223/roblox-regional-pricing-optimization",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK146_Roblox_New.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-18T23:16:47Z",
+            "content": "Buy in-game goods with Robux at region-specific pricing.\r\nBuy in-game goods with Robux at region-specific pricing.\r\nRoblox is rolling out a new feature that will let creators on the platform choose t… [+1667 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Verge Staff",
+            "title": "The modifiers",
+            "description": "Technology doesn’t need to die. So much of our consumer habits frame old gadgets, instruments, and concepts as disposable. So The Verge wanted to talk to small businesses, creators, and fans across the world who have a different view. In this week-long series…",
+            "url": "https://www.theverge.com/creators/638649/small-business-ai-tiktok-gopro-upcycle-refurbish",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257578_Small_biz_cobrands_CVirginia_LEDE_2040x1360.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-08T14:44:13Z",
+            "content": "Technology doesn’t need to die. So much of our consumer habits frame old gadgets, instruments, and concepts as disposable. So The Verge wanted to talk to small businesses, creators, and fans across t… [+805 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tina Nguyen",
+            "title": "Pete Buttigieg makes his first foray into the podcast manosphere",
+            "description": "A Democrat has entered the manosphere. Pete Buttigieg, the former Secretary of Transportation in the Biden Administration and a presidential candidate in 2020, sat for a three-hour appearance on Andrew Schultzâs Flagrant on Wednesday to discuss current even…",
+            "url": "https://www.theverge.com/internet-culture/654543/pete-buttigieg-flagrant-podcast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/pete-buttigieg-andrew-schultz-flagrant.png?quality=90&strip=all&crop=0.26752818256805%2C0%2C99.464943634864%2C100&w=1200",
+            "publishedAt": "2025-04-23T17:56:34Z",
+            "content": "The former Transportation Secretary appeared on Andrew Schultzs Flagrant, calling out Democrats for avoiding bro media.\r\nThe former Transportation Secretary appeared on Andrew Schultzs Flagrant, call… [+3372 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Nintendo’s Switch 2 era comes at a price",
+            "description": "Just about everything with the Nintendo Switch 2 is more expensive than the original Switch.  Itâs perhaps not unexpected that the console itself costs more money than the first Switch. That device launched more than eight years ago, after all. But followin…",
+            "url": "https://www.theverge.com/games/642868/nintendo-switch-2-price-console-games-accessories",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257672_switch_2_OGrove_0004.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
+            "publishedAt": "2025-04-03T17:59:01Z",
+            "content": "From the console to the games to the accessories, things are more expensive.\r\nFrom the console to the games to the accessories, things are more expensive.\r\nJust about everything with the Nintendo Swi… [+2281 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "Apple quickly shipped 600 tons of iPhones to ‘beat’ the new tariffs",
+            "description": "Apple airshipped 600 tons of iPhones to the US from India before new US tariffs were scheduled to take effect, as reported by Reuters and The Times of India. Meanwhile, Nikkei Asia reports Apple, Dell, Microsoft, and Lenovo were pressing to ship as many “prem…",
+            "url": "https://www.theverge.com/news/646666/iphones-india-shipments-tariffs",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_2303-Enhanced-NR_7473e7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-10T17:24:21Z",
+            "content": "Even with tariffs paused, the new rate hikes are reportedly testing tech supply chains around the world.\r\nEven with tariffs paused, the new rate hikes are reportedly testing tech supply chains around… [+1478 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Apple’s complicated plan to improve its AI while protecting privacy",
+            "description": "Apple says it’s found a way to make its AI models better without training on its users’ data or even copying it from their iPhones and Macs. In a blog post first reported on by Bloomberg, the company outlined its plans to have devices compare a synthetic data…",
+            "url": "https://www.theverge.com/news/648496/apple-improve-ai-models-differential-privacy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-14T20:37:35Z",
+            "content": "Apples new AI training method involves comparing synthetic data to real-world samples.\r\nApples new AI training method involves comparing synthetic data to real-world samples.\r\nApple says its found a … [+1672 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Rosenblum",
+            "title": "Is there a ‘right’ way to use AI in art?",
+            "description": "The arguments against AI in art are obvious. Most visual artists hate Midjourney, Stability AI, and similar image generators, decrying the scraping of training data without compensation and the onslaught of generic âslop.â But is it possible to deliberate…",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/642599/is-there-a-right-way-to-use-ai-in-art",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257578_Small_biz_Brett_Amory_CFong3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-08T14:52:00Z",
+            "content": "Artists are combining traditional methods with AI image generation.\r\nArtists are combining traditional methods with AI image generation.\r\nThe arguments against AI in art are obvious. Most visual arti… [+7856 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ash Parrish",
+            "title": "Infinity Nikki is coming soon to Steam and will add co-op mode",
+            "description": "Infinity Nikki’s next update will add some major new features. Bubble Season starts April 29th and will include a new area, new activities, and, of course, new (and returning) outfits. But the biggest addition is one that fans have been asking for since launc…",
+            "url": "https://www.theverge.com/games/656486/infinity-nikki-co-op-steam-bubble-season",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Screenshot-2025-04-25-at-1.48.20%E2%80%AFPM.png?quality=90&strip=all&crop=9.3116197183099%2C0%2C81.37676056338%2C100&w=1200",
+            "publishedAt": "2025-04-25T17:56:11Z",
+            "content": "Bubble Season offers new co-op mode activities, a new platform to play on, and a new way to show off your style.\r\nBubble Season offers new co-op mode activities, a new platform to play on, and a new … [+1873 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ash Parrish",
+            "title": "Donkey Kong Bananza was best in show at the Switch 2 hands-on",
+            "description": "One of the games I had on my personal Nintendo Switch 2 bingo card was a new 3D Mario. We didnât get one at the Switch 2 hands-on, and at first I thought it was odd that Nintendo would be launching their next big thing without a dedicated title for their nu…",
+            "url": "https://www.theverge.com/games/642699/donkey-kong-bananza-hands-on-preview-switch-2",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/NintendoSwitch2_DonkeyKongBananza_SCRN_06-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-04-03T15:54:14Z",
+            "content": "One of the games I had on my personal Nintendo Switch 2 bingo card was a new 3D Mario. We didnt get one at the Switch 2 hands-on, and at first I thought it was odd that Nintendo would be launching th… [+2006 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Spotify already has an app ready to test Apple’s new rules",
+            "description": "Spotify says it has submitted an update to its iOS app that would, among other things, let US customers use payment options that aren’t Apple’s, according to a blog post. The update submission follows Wednesday’s major Epic Games v. Apple ruling that forces A…",
+            "url": "https://www.theverge.com/news/659891/spotify-ios-app-update-apple-payment-rules",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-05-01T22:04:15Z",
+            "content": "The streaming company has already submitted an update to its iOS app following the major ruling in Epic Games v. Apple.\r\nThe streaming company has already submitted an update to its iOS app following… [+1999 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Alex Heath",
+            "title": "Sam Altman and Elon Musk are racing to build an ‘everything app’",
+            "description": "Sam Altman and Elon Musk aren't just competing in the AI race; they both have ambitions to build Silicon Valley's holy grail: an \"everything\" super app encompassing finance, social media, gaming, and more. Earlier this week, I got a peek at Altman's plan from…",
+            "url": "https://www.theverge.com/command-line-newsletter/660674/sam-altman-elon-musk-everything-app-worldcoin-x",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Sam-Altman-World-event-CL-site-wide.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-05-02T23:50:13Z",
+            "content": "Altmans Worldcoin startup is about more than authenticating humans in the age of AGI.\r\nAltmans Worldcoin startup is about more than authenticating humans in the age of AGI.\r\nSam Altman and Elon Musk … [+7082 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Star Wars is getting a turn-based strategy game called Zero Company",
+            "description": "The Star Wars strategy game announced in 2022 finally has a name: Zero Company, as EA revealed today. A website about the game describes it as a “single-player turn-based tactics game,” includes an image, and says that a “first look” will be shown at Star War…",
+            "url": "https://www.theverge.com/news/648151/star-wars-zero-company-strategy-game-celebration",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/swzc-key-art.jpg.adapt_.1456w.jpg?quality=90&strip=all&crop=0%2C8.673903176521%2C88.8%2C82.652193646958&w=1200",
+            "publishedAt": "2025-04-14T16:57:14Z",
+            "content": "The Star Wars strategy game announced in 2022 finally has a name: Zero Company, as EA revealed today. A website about the game describes it as a “single-player turn-based tactics game,” includes an i… [+1068 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "M3gan 2.0 gives the doll some upgrades in new trailer",
+            "description": "Though Blumhouse’s first M3gan feature was a near-perfect blend of techno-horror and ridiculous comedy, the sequel looks like it’s going to blow its predecessor out of the water. Set a couple of years after the first film, M3gan 2.0 once again centers robotic…",
+            "url": "https://www.theverge.com/trailers/642696/m3gan-2-trailer-release-date",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Screenshot-2025-04-03-at-11.23.03%E2%80%AFAM.png?quality=90&strip=all&crop=10.672569444444%2C0%2C78.654861111111%2C100&w=1200",
+            "publishedAt": "2025-04-03T16:19:21Z",
+            "content": "Blumhouses Terminator-inspired M3gan sequel sashays into theaters on June 27th.\r\nBlumhouses Terminator-inspired M3gan sequel sashays into theaters on June 27th.\r\nThough Blumhouses first M3gan feature… [+1229 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "ChatGPT is getting a ‘lightweight’ version of its deep research tool",
+            "description": "OpenAI is introducing a new version of its ChatGPT deep research tool that it says is cheaper to operate. The “lightweight” model is available now to free users, as well as those on several of the company’s paid tiers. Deep research (lightweight) is powered b…",
+            "url": "https://www.theverge.com/news/656142/chatgpt-lightweight-deep-research-free-plus-team-pro",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-25T11:42:33Z",
+            "content": "Its the first version of deep research available to ChatGPTs free users.\r\nIts the first version of deep research available to ChatGPTs free users.\r\nOpenAI is introducing a new version of its ChatGPT … [+1251 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "Bose’s QuietComfort Ultra are nearly $200 off in refurbished condition",
+            "description": "Whether you’re traveling or working from home, the noise-canceling Bose QuietComfort Ultra headphones can help you find calm and focus amid the everyday hustle and bustle. Normally priced at $429, sadly that peace and quiet doesn’t come cheap — but luckily to…",
+            "url": "https://www.theverge.com/tech/650816/bose-quietcomfort-ultra-headphones-refurbished-ebay-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25008886/DSCF3709.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-17T16:29:44Z",
+            "content": "Bose’s QuietComfort Ultra Headphones combine a travel-friendly, foldable design with top-notch noise cancellation and sound.\r\n\n\nWhether you’re traveling or working from home, the noise-canceling Bose… [+1258 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Nintendo is delaying Switch 2 preorders in Canada, too",
+            "description": "Nintendo has delayed Switch 2 preorders in Canada, which were set to start on April 9th, according to a statement shared with MobileSyrup. Last week, the company delayed preorders in the US because of the potential impact of the Trump administration’s new tar…",
+            "url": "https://www.theverge.com/news/645240/nintendo-switch-2-canada-preorders-delayed-trump-tariffs",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257672_switch_2_OGrove_0003.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
+            "publishedAt": "2025-04-08T15:59:26Z",
+            "content": "Canadians will also have to wait to preorder.\r\nCanadians will also have to wait to preorder.\r\nNintendo has delayed Switch 2 preorders in Canada, which were set to start on April 9th, according to a s… [+890 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Shotgun Cop Man is a weird-as-hell platformer about arresting Satan",
+            "description": "Shotgun Cop Man is a strange platformer. You play as a square man with a round, bald head who's chasing Satan to arrest him. At the beginning of each of the game's nine worlds, Satan gives you the middle finger. And you don't just use guns for fighting, but f…",
+            "url": "https://www.theverge.com/games-review/660272/shotgun-cop-man-review-pc-switch",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/B2E676F696DC4D50646B02F768566FC4FB53CEE0.jpeg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
+            "publishedAt": "2025-05-02T22:37:27Z",
+            "content": "Its a dark trip to catch a petulant Satan using your guns.\r\nIts a dark trip to catch a petulant Satan using your guns.\r\nShotgun Cop Man is a strange platformer. You play as a square man with a round,… [+3378 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "In The Last of Us season 2, Joel finally goes to therapy",
+            "description": "Joel is a troubled guy. Throughout the first Last of Us game (and subsequent TV adaptation on HBO, where heâs played by Pedro Pascal), he sees and does a lot of things heâd rather forget. He certainly doesnât seem to want to talk about them much. Which …",
+            "url": "https://www.theverge.com/tv/647211/last-of-us-season-2-therapist-catherine-ohara",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/pedro-pascal-catherine-o-hara.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-11T18:26:32Z",
+            "content": "The team behind the show explains a brand-new character played by Catherine OHara.\r\nThe team behind the show explains a brand-new character played by Catherine OHara.\r\nJoel is a troubled guy. Through… [+2557 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "Love, Death, and Robots Vol. 4 introduces its cast in wild new trailer",
+            "description": "Netflix’s Love, Death, and Robots anthology series has always featured pretty stacked casts, and it doesn’t sound like the show’s next season is going to be any exception. Along with a new trailer for the upcoming season, Netflix released a full listing of Lo…",
+            "url": "https://www.theverge.com/news/655312/love-death-and-robots-vol-4-cast-trailer",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/OLT_3248_Approved_R.png?quality=90&strip=all&crop=2.39921875%2C0%2C95.2015625%2C100&w=1200",
+            "publishedAt": "2025-04-24T17:06:16Z",
+            "content": "John Boyega, Rahul Kohli, MrBeast, and Niecy Nash are some of the voices youll hear in the new season.\r\nJohn Boyega, Rahul Kohli, MrBeast, and Niecy Nash are some of the voices youll hear in the new … [+1711 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Adobe and Figma tools are getting ChatGPT’s upgraded image generation model",
+            "description": "OpenAI’s upgraded image generator in ChatGPT brought a surge of users to the AI service thanks to its ability to create Studio Ghibli-style images and really dull dolls, and now it’s coming to other apps. The company says the same “natively multimodal model” …",
+            "url": "https://www.theverge.com/news/654561/openai-chatgpt-image-generation-model-adobe-figma",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-23T16:47:16Z",
+            "content": "OpenAI is making the model available for other companies to use.\r\nOpenAI is making the model available for other companies to use.\r\nOpenAIs upgraded image generator in ChatGPT brought a surge of user… [+1791 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "Sketchy rumors hint at an iPhone desktop mode",
+            "description": "Alongside all the rumors lately about a big visual redesign for iOS and a more Mac-like iPadOS experience, there’s one interesting one that’s been bubbling up: the iPhone could get a desktop mode of sorts.  Majin Bu, who has a mixed history with leaks, wrote …",
+            "url": "https://www.theverge.com/news/659175/iphone-desktop-mode-sketchy-rumors",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_M.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-30T21:16:00Z",
+            "content": "Apple has tested a version of Stage Manager on iPhones that works with external displays at least in simulations.\r\nApple has tested a version of Stage Manager on iPhones that works with external disp… [+1632 chars]"
+        }
+    ]
+}
